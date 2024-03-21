@@ -57,6 +57,20 @@ https://plx.iptv18.tech/tata.php?id=206097
 #EXTINF:-1 tvg-id="btsport2.uk" tvg-logo="" group-title="PL",BT SPORT 2 4K UK 
 https://plx.iptv18.tech/tata.php?id=206102
 
+#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", tvg-id="ksport1hd" group-title="PL", TNT Sports 1
+https://himelop-premium.000webhostapp.com/home-server/hexaop.m3u8?id=1596
+
+#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", tvg-id="ksport1hd" group-title="PL", TNT Sports 2
+https://himelop-premium.000webhostapp.com/home-server/hexaop.m3u8?id=1597
+
+#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", tvg-id="ksport1hd" group-title="PL", TNT Sports 3
+https://himelop-premium.000webhostapp.com/home-server/cooltvop.m3u8?id=7643
+
+
+#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", tvg-id="ksport1hd" group-title="PL", TNT Sports 4
+https://himelop-premium.000webhostapp.com/home-server/cooltvop.m3u8?id=7394
+
+
 
 
 UCL
@@ -161,36 +175,66 @@ https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=sony-ten-3-live
 https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=sony-ten-5
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSutKB6lynmi7Gz5dao1FKSTTEyPz0IwvkeFnc-BF0&s" group-title="FOOTBALL", Sony Sports 5 HD(c)
+https://himelop-premium.000webhostapp.com/home-server/cooltvop.m3u8?id=113
+                                 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSutKB6lynmi7Gz5dao1FKSTTEyPz0IwvkeFnc-BF0&s" group-title="FOOTBALL", Sony Sports 5 HD(h)
+https://himelop-premium.000webhostapp.com/home-server/hexaop.m3u8?id=1286
 
-#EXTINF:-1 ,SKYSPORT PREMIERLEAGUE
+
+#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="FOOTBALL", Sony Sports 1 HD(c)
+https://himelop-premium.000webhostapp.com/home-server/cooltvop.m3u8?id=6474
+
+#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="FOOTBALL", Sony Sports 1 HD(h)
+https://himelop-premium.000webhostapp.com/home-server/hexaop.m3u8?id=1988
+
+#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png" group-title="FOOTBALL", Sony Sports 2 HD(c)
+https://himelop-premium.000webhostapp.com/home-server/cooltvop.m3u8?id=6058
+
+#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png" group-title="FOOTBALL", Sony Sports 2 HD(h)
+https://himelop-premium.000webhostapp.com/home-server/hexaop.m3u8?id=939
+
+#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png" group-title="FOOTBALL", Sony Sports 3 HD(c)
+https://himelop-premium.000webhostapp.com/home-server/cooltvop.m3u8?id=6906
+
+#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png" group-title="FOOTBALL", Sony Sports 3 HD(h)
+https://himelop-premium.000webhostapp.com/home-server/hexaop.m3u8?id=1285
+
+
+
+#EXTINF:-1 group-title="FOOTBALL",SKYSPORT PREMIERLEAGUE
 http://landiptv.vip:2095/Whts1426/CGEEsAwUzY/395394.m3u8
-#EXTINF:-1 ,SKYSPORT NEWS
+#EXTINF:-1 group-title="FOOTBALL",SKYSPORT NEWS
 http://landiptv.vip:2095/Whts1426/CGEEsAwUzY/7043.m3u8
-#EXTINF:-1 ,SKYSPORT GOLF
+#EXTINF:-1 group-title="FOOTBALL",SKYSPORT GOLF
 http://landiptv.vip:2095/Whts1426/CGEEsAwUzY/395392.m3u8
-#EXTINF:-1 ,SKYSPORT F1
+#EXTINF:-1 group-title="FOOTBALL",SKYSPORT F1
 http://landiptv.vip:2095/Whts1426/CGEEsAwUzY/642166.m3u8
-#EXTINF:-1 ,SKYSPORT 1 (MATCH TIME)
+#EXTINF:-1 group-title="FOOTBALL",SKYSPORT 1 (MATCH TIME)
 http://landiptv.vip:2095/Whts1426/CGEEsAwUzY/7031.m3u8
-#EXTINF:-1 ,SKYSPORT 2 (MATCH TIME)
+#EXTINF:-1 group-title="FOOTBALL",SKYSPORT 2 (MATCH TIME)
 http://landiptv.vip:2095/Whts1426/CGEEsAwUzY/7032.m3u8
-#EXTINF:-1 ,SKYSPORT 4 (MATCH TIME)
+#EXTINF:-1 group-title="FOOTBALL",SKYSPORT 4 (MATCH TIME)
 http://landiptv.vip:2095/Whts1426/CGEEsAwUzY/397098.m3u8
-#EXTINF:-1 ,SKYSPORT 5 (MATCH TIME)
+#EXTINF:-1 group-title="FOOTBALL",SKYSPORT 5 (MATCH TIME)
 http://landiptv.vip:2095/Whts1426/CGEEsAwUzY/7035.m3u8
-#EXTINF:-1 ,SKYSPORT 6 (MATCH TIME)
+#EXTINF:-1 group-title="FOOTBALL",SKYSPORT 6 (MATCH TIME)
 http://landiptv.vip:2095/Whts1426/CGEEsAwUzY/7036.m3u8
-#EXTINF:-1 ,SKYSPORT 7 (MATCH TIME)
+#EXTINF:-1 group-title="FOOTBALL",SKYSPORT 7 (MATCH TIME)
 http://landiptv.vip:2095/Whts1426/CGEEsAwUzY/395384.m3u8
-#EXTINF:-1 ,SKYSPORT 10 (MATCH TIME)
+#EXTINF:-1 group-title="FOOTBALL",SKYSPORT 10 (MATCH TIME)
 http://landiptv.vip:2095/Whts1426/CGEEsAwUzY/7040.m3u8
-#EXTINF:-1 ,SKYSPORT 11 (MATCH TIME)
+#EXTINF:-1 group-title="FOOTBALL",SKYSPORT 11 (MATCH TIME)
 http://landiptv.vip:2095/Whts1426/CGEEsAwUzY/7041.m3u8
 
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Fox 501 HD
+https://himelop-premium.000webhostapp.com/home-server/hexaop.m3u8?id=2756
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Willow HD
+https://himelop-premium.000webhostapp.com/home-server/hexaop.m3u8?id=900
 
 
 
@@ -208,6 +252,15 @@ https://drive.usercontent.google.com/uc?id=1EKvLZBOVSciEoO6gm9h69RKjbmpjK-1t&exp
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RgkjjMV/Picsart-24-03-19-10-16-39-840.png", IPL LIVE 03
 http://103.120.172.74:4600
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="CRICKET", Astro Cricket
+https://himelop-premium.000webhostapp.com/home-server/hexaop.m3u8?id=2755
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="CRICKET", Sky Cricket
+https://himelop-premium.000webhostapp.com/home-server/hexaop.m3u8?id=532
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="CRICKET", Super Cricket
+https://himelop-premium.000webhostapp.com/home-server/hexaop.m3u8?id=2901
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Hd2YRBj/IMG-20240129-071921.png" group-title="CRICKET", Star Sports 1
@@ -261,7 +314,6 @@ http://176.119.29.52/live/00:1A:79:D5:3F:0C/0C219CAACF826/48010.m3u8
 #EXTINF:-1 tvg-id="Sports" tvg-logo="" group-title="CRICKET",T SPORTS BANGLA 
 https://plx.iptv18.tech/tata.php?id=12104
 
-
 #EXTINF:-1 tvg-logo="" group-title="CRICKET",Star Sports 1 HD 
 https://plx.iptv18.tech/ultapulta.php?id=4627
 #EXTINF:-1 tvg-id="starsports1.in" tvg-logo="" group-title="CRICKET",STAR SPORTS 1 4K 
@@ -296,6 +348,30 @@ http://103.120.172.74:4200
 http://xtv.ooo:8080/adnankb2006/86057314/167577
 #EXTINF:-1 tvg-id="starsports3.in" tvg-logo="" group-title="CRICKET",STAR SPORTS 3 HINDI HD 
 https://plx.iptv18.tech/tata.php?id=12155
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1200px-Star_Sports_1_HD.png" group-title="CRICKET", Star Sports 1 HD(c)
+https://himelop-premium.000webhostapp.com/home-server/cooltvop.m3u8?id=24362
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1200px-Star_Sports_1_HD.png" group-title="CRICKET", Star Sports 1 HD(h)
+https://himelop-premium.000webhostapp.com/home-server/hexaop.m3u8?id=938
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1200px-Star_Sports_1_HD.png" group-title="CRICKET", Star Sports 1 Hindi(c)
+https://himelop-premium.000webhostapp.com/home-server/cooltvop.m3u8?id=7608
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bzL3gw5/1687766937154.pngg" group-title="CRICKET", Star Sports 2 HD(c)
+https://himelop-premium.000webhostapp.com/home-server/cooltvop.m3u8?id=7610
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bzL3gw5/1687766937154.pngg" group-title="CRICKET", Star Sports 2 HD(h)
+https://himelop-premium.000webhostapp.com/home-server/hexaop.m3u8?id=939
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Star-sports-select-1-hd.png" group-title="CRICKET", Star Sports Select 1 HD
+https://himelop-premium.000webhostapp.com/home-server/hexaop.m3u8?id=2619
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Star-sports-select-1-hd.png" group-title="CRICKET", Star Sports Select 2 HD
+https://himelop-premium.000webhostapp.com/home-server/hexaop.m3u8?id=3738
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="CRICKET",Star Sport Select 1 HD 

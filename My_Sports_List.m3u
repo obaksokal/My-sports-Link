@@ -243,14 +243,29 @@ https://himelop-premium.000webhostapp.com/home-server/hexaop.m3u8?id=900
 
 CRICKET
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RgkjjMV/Picsart-24-03-19-10-16-39-840.png", IPL LIVE 01
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RgkjjMV/Picsart-24-03-19-10-16-39-840.png" group-title="IPL", IPL LIVE 01
 https://drive.usercontent.google.com/uc?id=1EKvLZBOVSciEoO6gm9h69RKjbmpjK-1t&export=download
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RgkjjMV/Picsart-24-03-19-10-16-39-840.png", IPL LIVE 02
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RgkjjMV/Picsart-24-03-19-10-16-39-840.png" group-title="IPL, IPL LIVE 02
 https://drive.usercontent.google.com/uc?id=1EKvLZBOVSciEoO6gm9h69RKjbmpjK-1t&export=download
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RgkjjMV/Picsart-24-03-19-10-16-39-840.png", IPL LIVE 03
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RgkjjMV/Picsart-24-03-19-10-16-39-840.png" group-title="IPL, IPL LIVE 03
 http://103.120.172.74:4600
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2889/logo/240x240/mobile_logo_211907001709470250.png" group-title="LIVE EVENTS", T Sports BDIX (Himel OP)
+http://himelop-bd.ddnsking.com/live/skyfeed1005/index.m3u8
+
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/2889/logo/240x240/mobile_logo_211907001709470250.png", BAN vs SL VIP (Toffee)
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1711117246:KeyName=prod_live_events:Signature=zIJskuaV80ZZnEVL2fnC2bUunesDHRjv0fE9BeVYR27DjR0ginlR8SYA694PWhDuwxJKZMyDQ-bdW5WEuItFCg"}
+https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8
+
+
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26939/logo/240x240/mobile_logo_611053001711015631.png", BAN vs SL VIP (Toffee)
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+#EXTHTTP:{"cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1711137981:KeyName=prod_live_events:Signature=NlZVp5viJTrtHwPQHSriKn3U9nDO2re1ucUjFbX3ZNTk5iiM7fHwfMG0HhsRLBWmeDPeRLNRMJFkieElOcqJDg"}
+https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="CRICKET", Astro Cricket

@@ -14,6 +14,11 @@ https://bongohub.pw/api/bdsajib/hoicoi.m3u8?ac=1101
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/43QF1vFV/20231023-120959.jpg",Gazi TV BDIX
 https://bongohub.pw/api/bdsajib/hoicoi.m3u8?ac=1102
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/6B7ckBX/IMG-20240320-113228.png" group-title="SPORTS",G TV 
+http://103.109.56.116/live/skyfeed1006/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h2d6ww5/IMG-20240320-112946.png"group-title="SPORTS", T Sports
+http://103.109.56.116/live/skyfeed1005/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/26939/logo/240x240/mobile_logo_710077001711090095.png" group-title="IPL", IPL 2024 VIP(2)
 https://1rdk.short.gy/toffeelive/match-1/Himel-Op.m3u8%7cCookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1711117246:KeyName=prod_live_events:Signature=zIJskuaV80ZZnEVL2fnC2bUunesDHRjv0fE9BeVYR27DjR0ginlR8SYA694PWhDuwxJKZMyDQ-bdW5WEuItFCg&auth=Himel-OP
 

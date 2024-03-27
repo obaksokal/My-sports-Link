@@ -85,10 +85,21 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_ten1_hd/playlist.m3u8%7Ccooki
 http://103.109.56.116/live/skyfeed1002/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x13xYWp/IMG-20240324-053232.jpg" group-title="SPORTS", Star Sports 2
 http://103.109.56.116/live/skyfeed1003/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x13xYWp/IMG-20240324-053232.jpg" group-title="SPORTS", Star Sports 2
+https://cdn8.aliflailabd.com/star-sports-2/tracks-v1a1/mono.m3u8?token=8b38cbd3eddfd68afb2f53e03936881cb3c56beb-e5097b3fd858e0338fe3565adaaed7be-1711540787-1711529987
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TrPDk4V/IMG-20240129-072058.png" group-title="SPORTS CHANNELS", Star Sports SL 1
 https://pos.bongohub.pw/mac.m3u8?id=10662
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TrPDk4V/IMG-20240129-072058.png" group-title="SPORTS CHANNELS", Star Sports SL 1
+https://cdn8.aliflailabd.com/star-sports-select-1/tracks-v1a1/mono.m3u8?token=4675b61caeb95a0d377d109b8769a4e5510f41d2-d910bdfbbafac15f7e33b2b44aeffae0-1711540846-1711530046
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D9c4RL6/IMG-20240129-072152.png" group-title="SPORTS CHANNELS", Star Sports SL 2
 http://103.120.172.74:4700
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D9c4RL6/IMG-20240129-072152.png" group-title="SPORTS CHANNELS", Star Sports SL 2
+https://cdn8.aliflailabd.com/star-sports-select-2/tracks-v1a1/mono.m3u8?token=d7f5e0f551781cbd4906a6ea760df2ff457e4f58-0949700ed0e1a6532f45f700163fe443-1711540881-1711530081
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CwnmncC/IMG-20240129-072239.jpg" group-title="SPORTS CHANNELS", Sony Ten 1

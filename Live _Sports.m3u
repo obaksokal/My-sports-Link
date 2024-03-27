@@ -118,7 +118,8 @@ https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=sony-ten-3-live
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6bm4R3d/IMG-20240129-072422.jpg" group-title="SPORTS CHANNELS", Sony Ten 3
 https://cdn8.aliflailabd.com/sony-ten-3-hd/tracks-v1a1/mono.m3u8?token=df125ad530c1521946a8cb1eb2738231df46994c-9cecc1ae96d8d8c21dadc3797459772b-1711540991-1711530191
 
-#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",Sony Ten 4
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",Sony Ten 5
+https://cdn8.aliflailabd.com/sony-six-hd/tracks-v1a1/mono.m3u8?token=7b4e8f12b3d71be09095736fec93b89da7fbb0f8-129c0f0cc5513711e94927ca118fbb62-1711541028-1711530228
 
 #EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",Sony Ten 5
 https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=sony-ten-5

@@ -78,6 +78,9 @@ https://catowrap.live/mrgamingwwenet.m3u8
 https://catowrap.live/mrgamingsscric.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://shorturl.at/gjrFJ",TYC Sports
 https://catowrap.live/mrgamingtyc.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png" group-title="Sports",TyC Sports
+http://stream.flynetwifi.com:1935/live/mobile-005/playlist.m3u8
+
 #EXTINF:-1 group-title="PL" tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/23/f7114a70-aa94-11ec-9b91-03afdbb2e824_webp_320.png",true premier football 1
 https://edge2.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 group-title="PL" tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/23/f7114a70-aa94-11ec-9b91-03afdbb2e824_webp_320.png",true premier football 2
@@ -106,6 +109,9 @@ Bein Sports
 
 #EXTINF:-1 " tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORTS-1.jpg" group-title="BEIN SPORTS",BEIN SPORTS 1  
 https://edge2.laotv.la/live/Bsport1/index.m3u8
+#EXTINF:-1 " tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORTS-1.jpg" group-title="BEIN SPORTS",BEIN SPORTS 1  
+https://stream.ayas.ir/hls2/ayas1.m3u8
+
 #EXTINF:-1 " tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORTS-2.jpg" group-title="BEIN SPORTS",BEIN SPORTS 2
 https://edge1.laotv.la/live/Bsport2/index.m3u8
 
@@ -161,3 +167,29 @@ http://80.252.37.194:5000/udp/233.233.233.7:12000
 #EXTINF:-1 " group-title="Arena Sports", Arena Sport 6 HD
 http://80.252.37.194:5000/udp/233.233.233.8:12000
 
+DUBAI SPORTS
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Poxw8lG.png" group-title="DUBAI SPORTS",Dubai Sports 1 
+https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PMJ7Zmo.png" group-title="DUBAI SPORTS",Dubai Sports 2 
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U0A8Gex.png" group-title="DUBAI SPORTS",Dubai Sports 3 
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U0A8Gex.png" group-title="DUBAI SPORTS",SSC1
+https://af.ayassport.ir/hls2/ssc1.m3u8
+
+https://stream.ayas.ir/hls2/bein1en.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U0A8Gex.png" group-title="DUBAI SPORTS",Bein Sports
+https://stream.ayas.ir/hls2/ayas2.m3u8
+
+https://stream.ayas.ir/hls2/bein2en.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U0A8Gex.png" group-title="DUBAI SPORTS",Bein Sports
+https://stream.ayas.ir/hls2/ayas3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U0A8Gex.png" group-title="DUBAI SPORTS",Bein Sports
+https://stream.ayas.ir/hls2/ayas4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U0A8Gex.png" group-title="DUBAI SPORTS",Bein Sports
+https://stream.ayas.ir/hls2/ayas5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U0A8Gex.png" group-title="DUBAI SPORTS",Bein Sports
+https://stream.live12.ir/hls2/persiana.m3u8

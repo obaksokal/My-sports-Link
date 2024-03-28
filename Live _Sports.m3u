@@ -48,7 +48,7 @@ http://103.109.56.116/live/skyfeed1003/index.m3u8
 http://103.109.56.116/live/skyfeed1004/index.m3u8
 #EXTINF:-1 tvg-logo="https://shorturl.at/bhpS2" group-title="SPORTS", Star Sports SL 2
 http://103.120.172.74:4700
-#EXTINF:-1 tvg-id="" tvg-name="PTV SPORTS" tvg-logo="https://i.ibb.co/LC67WKg/IMG-20240126-101509.jpg" group-title="SPORTS", PTV SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="PTV SPORTS" tvg-logo="https://i.postimg.cc/P5HhYPyL/200px-PTV_Sports.png" group-title="SPORTS", PTV SPORTS
 http://103.109.56.116/live/funtime107/index.m3u8
 
 
@@ -86,78 +86,78 @@ https://edge2.laotv.la/live/TSport2/index.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://i.ibb.co/84Sqm5L/IMG-20240129-072506.jpg",Willow HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.toiimg.com/thumb/msid-98738864,width-1280,height-720,resizemode-4/98738864.jpg",Willow HD
 http://xtv.ooo:8080/shahz18/18usman/220064
-#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://i.ibb.co/tQNxQ2Z/IMG-20240129-072540.png",WILLOW CRICKET XTRA
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.toiimg.com/thumb/msid-98738864,width-1280,height-720,resizemode-4/98738864.jpg",WILLOW CRICKET XTRA
 http://xtv.ooo:8080/shahz18/18usman/167582
-#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png",EUROPSPORT
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png",EUROPSPORT
 http://xtv.ooo:8080/shahz18/18usman/206324
 
-#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://i.ibb.co/ZgN6LY4/IMG-20240324-053044.png",CricLife 1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/662172679/img-cache.php_400x400.png",CricLife 1
 http://xtv.ooo:8080/shahz18/18usman/371469
-#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://i.ibb.co/ZgN6LY4/IMG-20240324-053044.png",CricLife 2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/662172679/img-cache.php_400x400.png",CricLife 2
 http://xtv.ooo:8080/shahz18/18usman/371470
-#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://i.ibb.co/ZgN6LY4/IMG-20240324-053044.png",CricLife 3
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/662172679/img-cache.php_400x400.png",CricLife 3
 http://xtv.ooo:8080/shahz18/18usman/371471
 
-#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://i.ibb.co/fqWXNvT/IMG-20240325-051831.jpg",SSC 1
-http://138.201.222.250:1985/stream/SSC-1-720/master.m3u8
-#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://i.ibb.co/TH32QV0/IMG-20240325-051855.jpg",SSC 2
-http://138.201.222.250:1985/stream/SSC-2-720/master.m3u8
-#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://i.ibb.co/gFb5vKY/IMG-20240325-051923.jpg",SSC 3
-http://138.201.222.250:1985/stream/SSC-3-720/master.m3u8
-#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://i.ibb.co/FDYHNHH/IMG-20240325-052005.jpg",SSC 4
-http://138.201.222.250:1985/stream/SSC-4-720/master.m3u8
-#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://i.ibb.co/48YqZYG/IMG-20240325-052041.jpg",SSC 5
-http://138.201.222.250:1985/stream/SSC-5-720/master.m3u8
 
 
 Bein Sports
-#EXTINF:-1 " tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORTS-1.jpg" group-title="BDSAJIB-Sports",BEIN SPORTS 1  
+
+#EXTINF:-1 " tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORTS-1.jpg" group-title="BEIN SPORTS",BEIN SPORTS 1  
 https://edge2.laotv.la/live/Bsport1/index.m3u8
-#EXTINF:-1 " tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORTS-2.jpg" group-title="BDSAJIB-Sports",BEIN SPORTS 2
+#EXTINF:-1 " tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORTS-2.jpg" group-title="BEIN SPORTS",BEIN SPORTS 2
 https://edge1.laotv.la/live/Bsport2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qM1dDR7/IMG-20240126-101611.png" group-title="BEIN SPORTS", beIN Sports 2
+#EXTINF:-1 tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORTS-2.jpg" group-title="BEIN SPORTS", beIN Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://live-streamfootball.com/
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61169.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SmGWyqJ/IMG-20240126-101632.png" group-title="BEIN SPORTS", beIN Sports 3
+#EXTINF:-1 tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORTS-3.jpg" group-title="BEIN SPORTS", beIN Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://live-streamfootball.com/
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61170.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TTH7qqq/IMG-20240126-101659.png" group-title="BEIN SPORTS", beIN Sports 4
+#EXTINF:-1 tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORTS-4.jpg" group-title="BEIN SPORTS", beIN Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://live-streamfootball.com/
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61171.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XkcD9q5/IMG-20240126-101722.png" group-title="BEIN SPORTS", beIN Sports 5
+#EXTINF:-1 tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORTS-5.jpg" group-title="BEIN SPORTS", beIN Sports 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://live-streamfootball.com/
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61172.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M1tkX7N/IMG-20240126-101745.png" group-title="BEIN SPORTS", beIN Sports 6
+#EXTINF:-1 tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORTS-6jpg" group-title="BEIN SPORTS", beIN Sports 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://live-streamfootball.com/
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61173.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="BEIN SPORTS",BeIN SPORTS XTRA
+https://lnc-bein.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V562tpO.png" group-title="BEIN SPORTS",BeIN SPORTS XTRA En Espanol
+https://lnc-bein-espanol.tubi.video/playlist.m3u8
+
+
+
+Arena Sports
+
+#EXTINF:-1 " group-title="Arena Sports", Arena Sport 1 HD
+http://80.252.37.194:5000/udp/233.233.233.3:12000
+
+#EXTINF:-1 " group-title="Arena Sports", Arena Sport 2 HD
+http://80.252.37.194:5000/udp/233.233.233.4:12000
+
+#EXTINF:-1 " group-title="Arena Sports", Arena Sport 3 HD
+http://80.252.37.194:5000/udp/233.233.233.5:12000
+
+#EXTINF:-1 " group-title="Arena Sports", Arena Sport 4 HD
+http://80.252.37.194:5000/udp/233.233.233.6:12000
+
+#EXTINF:-1 " group-title="Arena Sports", Arena Sport 5 HD
+http://80.252.37.194:5000/udp/233.233.233.7:12000
+
+#EXTINF:-1 " group-title="Arena Sports", Arena Sport 6 HD
+http://80.252.37.194:5000/udp/233.233.233.8:12000
 

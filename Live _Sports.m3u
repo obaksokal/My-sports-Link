@@ -179,7 +179,9 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/ind
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U0A8Gex.png" group-title="DUBAI SPORTS",SSC1
 https://af.ayassport.ir/hls2/ssc1.m3u8
 
-https://stream.ayas.ir/hls2/bein1en.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U0A8Gex.png" group-title="DUBAI SPORTS",SSC1
+https://stream.live12.ir/hls2/ssc1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U0A8Gex.png" group-title="DUBAI SPORTS",Bein Sports
 https://stream.ayas.ir/hls2/ayas2.m3u8
 

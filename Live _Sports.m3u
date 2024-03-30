@@ -101,13 +101,20 @@ http://xtv.ooo:8080/shahz18/18usman/371471
 
 
 Bein Sports
+#EXTINF:-1 tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORTS-1.jpg" group-title="BEIN SPORTS",beIN Sports France 1
+http://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/6620.m3u8
+#EXTINF:-1 tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORTS-1.jpg" group-title="BEIN SPORTS",beIN Sports France 2
+http://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/6622.m3u8
+#EXTINF:-1 tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORTS-1.jpg" group-title="BEIN SPORTS",beIN Sports France 3
+http://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/6624.m3u8
 
-#EXTINF:-1 " tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORTS-1.jpg" group-title="BEIN SPORTS",BEIN SPORTS 1  
+
+#EXTINF:-1 tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORTS-1.jpg" group-title="BEIN SPORTS",BEIN SPORTS 1  
 https://edge2.laotv.la/live/Bsport1/index.m3u8
-#EXTINF:-1 " tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORTS-1.jpg" group-title="BEIN SPORTS",BEIN SPORTS 1  
+#EXTINF:-1 tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORTS-1.jpg" group-title="BEIN SPORTS",BEIN SPORTS 1  
 https://stream.ayas.ir/hls2/ayas1.m3u8
 
-#EXTINF:-1 " tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORTS-2.jpg" group-title="BEIN SPORTS",BEIN SPORTS 2
+#EXTINF:-1 tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORTS-2.jpg" group-title="BEIN SPORTS",BEIN SPORTS 2
 https://edge1.laotv.la/live/Bsport2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORTS-2.jpg" group-title="BEIN SPORTS", beIN Sports 2

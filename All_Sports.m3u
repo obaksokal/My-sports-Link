@@ -1,0 +1,211 @@
+#EXTM3U
+#EXTINF:-1 group-title="EPL" tvg-logo="https://media.info/l/o/1/1539.1690027797.png",TNT Sports 1
+https://catowrap.live/mrgamingbtsport1.m3u8
+#EXTINF:-1 group-title="EPL" tvg-logo="https://media.info/l/o/1/1540.1690027877.png",TNT Sports 2
+https://catowrap.live/mrgamingbtsport2.m3u8
+#EXTINF:-1 group-title="EPL" tvg-logo="https://media.info/l/o/5/5712.1690027954.png",TNT Sports 3
+https://catowrap.live/mrgamingbtsport3.m3u8
+#EXTINF:-1 group-title="EPL" tvg-logo="https://media.info/l/o/1/1491.1690027975.png",TNT Sports 4
+https://catowrap.live/mrgamingbtsport4.m3u8
+#EXTINF:-1 group-title="EPL" tvg-logo="https://shorturl.at/fixL1",Sky Sports Main Event
+https://catowrap.live/mrgamingmainevent.m3u8
+#EXTINF:-1 group-title="EPL" tvg-logo="https://shorturl.at/ivGI9",Super Sports Premier League 
+https://catowrap.live/mrgamingpremier.m3u8
+#EXTINF:-1 group-title="EPL" tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/23/f7114a70-aa94-11ec-9b91-03afdbb2e824_webp_320.png",true premier football 1
+https://edge2.laotv.la/live/TSport1/index.m3u8
+#EXTINF:-1 group-title="EPL" tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/23/f7114a70-aa94-11ec-9b91-03afdbb2e824_webp_320.png",true premier football 2
+https://edge2.laotv.la/live/TSport2/index.m3u8
+#EXTINF:-1 group-title="EPL" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9c7d3f18c08487ae764df48783c089a1.png",Premier Sports 1
+http://xtv.ooo:8080/7082785282/90643795158/346240
+#EXTINF:-1 group-title="EPL" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/860b7e2f2ed148c938115c734f31ef62.png",Sky Sports Football
+http://xtv.ooo:8080/7082785282/90643795158/346241
+#EXTINF:-1 group-title="EPL" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/09bb1aded27d31530f3939146dffbc0c.png",Sky Sports Premier League
+http://xtv.ooo:8080/7082785282/90643795158/346242
+#EXTINF:-1 group-title="EPL" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/eab43347e741baa1fc960207198c8e6b.png",LFC TV
+http://xtv.ooo:8080/7082785282/90643795158/346243
+#EXTINF:-1 group-title="EPL" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/73eef793ce91db2ff4122b6e3581ec7b.png",MUTV
+http://xtv.ooo:8080/7082785282/90643795158/346244
+#EXTINF:-1 group-title="EPL" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/367ea46b760bdd8955db180204300052.png",Sky Sports Main Event 1
+http://xtv.ooo:8080/7082785282/90643795158/346382
+
+
+#EXTINF:-1 group-title="LALIGA" tvg-logo="https://i.imgur.com/5pMo7dL.png",Real Madrid
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
+#EXTINF:-1 group-title="LALIGA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/04835cfc0f331cb7e0aa7154b988d08f.png", Barca TV
+http://xtv.ooo:8080/7082785282/90643795158/354027
+#EXTINF:-1 group-title="LALIGA" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/707da2cc95064a5008bf9d851f46ef9d.png", beIN Sports Xtra en Espanol
+http://xtv.ooo:8080/7082785282/90643795158/354028
+#EXTINF:-1 group-title="LALIGA" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/484784419a9faf9cbeac602c51174f16.png",  DAZN 1
+http://xtv.ooo:8080/7082785282/90643795158/354029
+#EXTINF:-1 group-title="LALIGA" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7b025261b7fc8b187dddf757424b01db.png",  DAZN 2
+http://xtv.ooo:8080/7082785282/90643795158/354030
+#EXTINF:-1 group-title="LALIGA" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1d36d4196d1e853c52f5a606b640d9b1.png",  DAZN 3
+http://xtv.ooo:8080/7082785282/90643795158/354031
+#EXTINF:-1 group-title="LALIGA" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7b834941508cb1ab7d5787042c10bc7b.png",  DAZN 4
+http://xtv.ooo:8080/7082785282/90643795158/354032
+#EXTINF:-1 group-title="LALIGA" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/4c44f8e1726a04ccabb219f60f174ebc.png",  DAZN LaLiga 2
+http://xtv.ooo:8080/7082785282/90643795158/354033
+#EXTINF:-1 group-title="LALIGA" tvg-logo="http://s3.i3ns.net/portal/picon/2023-03/919f1429f4969700078f3cfded40151c.svg",  Laliga Smartbank TV
+http://xtv.ooo:8080/7082785282/90643795158/354034
+#EXTINF:-1 group-title="LALIGA" tvg-logo="http://s3.i3ns.net/portal/picon/2023-03/18bb555912f34dff06c2de73b972737b.svg",  Laliga Smartbank TV 1
+http://xtv.ooo:8080/7082785282/90643795158/354035
+#EXTINF:-1 group-title="LALIGA" tvg-logo="http://s3.i3ns.net/portal/picon/2023-03/db1b5c362ed561b2c801433ba3e3f13b.svg",  Laliga Smartbank TV 2
+http://xtv.ooo:8080/7082785282/90643795158/354036
+#EXTINF:-1 group-title="LALIGA" tvg-logo="http://s3.i3ns.net/portal/picon/2023-03/202142881d4f8c20b932b94b581c0938.svg",  Laliga Smartbank TV 3
+http://xtv.ooo:8080/7082785282/90643795158/354037
+#EXTINF:-1 group-title="LALIGA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/faa723dac3eece2c865473edd83d65c9.png",  LaLiga TV Bar
+http://xtv.ooo:8080/7082785282/90643795158/354038
+#EXTINF:-1 group-title="LALIGA" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/83c20e93f805d1c0de43abcaf10f42de.png",  MOVISTAR LaLiga
+http://xtv.ooo:8080/7082785282/90643795158/354039
+#EXTINF:-1 group-title="LALIGA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/2f992ea3f06a9d0385df6e3e39e2c00b.png",  MOVISTAR LaLiga 2
+http://xtv.ooo:8080/7082785282/90643795158/354040
+#EXTINF:-1 group-title="LALIGA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/22ba20bcd4a9505d1ad7435f1dceaa93.png",  MOVISTAR LaLiga 3
+http://xtv.ooo:8080/7082785282/90643795158/354041
+#EXTINF:-1 group-title="LALIGA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/158d3d24cbf3ba9dc16e939750ab0ad9.png",  MOVISTAR LaLiga 4
+http://xtv.ooo:8080/7082785282/90643795158/354042
+#EXTINF:-1 group-title="LALIGA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/8547f7041c05f04ce7aad56c67b64481.png",  MOVISTAR LaLiga 5
+http://xtv.ooo:8080/7082785282/90643795158/354043
+#EXTINF:-1 group-title="LALIGA" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/98c3b45e9801cd9fe5e72bc8d42b859d.png",  MOVISTAR LIGA DE CAMPEONES
+http://xtv.ooo:8080/7082785282/90643795158/354044
+#EXTINF:-1 group-title="LALIGA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/8d75f42f9380554385d706be8d276912.png",  MOVISTAR LIGA DE CAMPEONES 2
+http://xtv.ooo:8080/7082785282/90643795158/354045
+#EXTINF:-1 group-title="LALIGA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/308b6b52210eb1295948261672554da2.png",  Multideporte
+http://xtv.ooo:8080/7082785282/90643795158/354046
+#EXTINF:-1 group-title="LALIGA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/854d5bca5c7796bd6f64a874a5d3ae17.png",  Real Madrid TV
+http://xtv.ooo:8080/7082785282/90643795158/354047
+#EXTINF:-1 group-title="LALIGA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/689064c08b917d7d1b5354c32a16f80f.png",  Sevilla FC TV
+http://xtv.ooo:8080/7082785282/90643795158/354048
+
+
+
+
+
+
+#EXTINF:-1 group-title="UCL" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fcd9da9870d36ec51c1232e395e37c2e.png",TNT Sport 1
+http://xtv.ooo:8080/7082785282/90643795158/346373
+#EXTINF:-1 group-title="UCL" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c50393867c2322666f3bab470cee3c28.png",TNT Sport 2
+http://xtv.ooo:8080/7082785282/90643795158/346374
+#EXTINF:-1 group-title="UCL" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7490f8804522a1146efbf31a624c2fae.png",TNT Sport 3
+http://xtv.ooo:8080/7082785282/90643795158/346375
+#EXTINF:-1 group-title="UCL" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/62202041be4d633e670a98fc322eaab0.svg",TNT Sport 4
+http://xtv.ooo:8080/7082785282/90643795158/346376
+#EXTINF:-1 group-title="UCL" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f1dc481ba9bdb4f1d02734d80a5c8f99.png", CBS Sports Network
+http://xtv.ooo:8080/7082785282/90643795158/346866
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="CRICKET" tvg-logo="https://media.info/i/lf/300/1507600280/1134.png",Sky Sports Cricket 
+https://catowrap.live/mrgamingcric.m3u8
+#EXTINF:-1 group-title="CRICKET" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b33dfe81c31eb1ea15ca2705d24af664.png",Sky Sports Cricket 1
+http://xtv.ooo:8080/7082785282/90643795158/346379
+#EXTINF:-1 group-title="CRICKET" tvg-logo="https://shorturl.at/muxQ3",Super Sports Cricket 
+https://catowrap.live/mrgamingsscric.m3u8
+#EXTINF:-1 group-title="CRICKET" tvg-logo="https://shorturl.at/muxQ3",Super Sports Cricket 1
+http://xtv.ooo:8080/7082785282/90643795158/238475
+#EXTINF:-1 group-title="CRICKET" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PTV SPORTS
+http://xtv.ooo:8080/7082785282/90643795158/167567
+#EXTINF:-1 group-title="CRICKET" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PTV SPORTS HD
+http://xtv.ooo:8080/7082785282/90643795158/217968
+#EXTINF:-1 group-title="CRICKET" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Geo_Super_logo.png", Geo Super HD
+http://xtv.ooo:8080/7082785282/90643795158/167568
+#EXTINF:-1 group-title="CRICKET" TEN SPORTS" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/02/df8bdc0787eb68c35292ff74fa60466b-2-3.jpg",TEN SPORTS
+http://xtv.ooo:8080/7082785282/90643795158/167569
+#EXTINF:-1 group-title="CRICKET" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/ICC_T20_World_Cup_2022_Logo.png",T20 WORLD CUP 01
+http://xtv.ooo:8080/7082785282/90643795158/219643
+#EXTINF:-1 group-title="CRICKET" tvg-logo="http://logo.xsmarters.com/logo/ASPORTSARY.jfif", A Sports HD (Server 1)
+http://xtv.ooo:8080/7082785282/90643795158/219689
+#EXTINF:-1 group-title="CRICKET" tvg-logo="http://opplextv.com/logo/ASPORTSARY.jfif", A Sports HD (Server 2)
+http://xtv.ooo:8080/7082785282/90643795158/221417
+#EXTINF:-1 group-title="CRICKET" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png", Ten 1 HD
+http://xtv.ooo:8080/7082785282/90643795158/167570
+#EXTINF:-1 group-title="CRICKET" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png", Ten 2 HD
+http://xtv.ooo:8080/7082785282/90643795158/167571
+#EXTINF:-1 group-title="CRICKET" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png",Ten 3 HD
+http://xtv.ooo:8080/7082785282/90643795158/167572
+#EXTINF:-1 group-title="CRICKET" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1624_1.png", Sony Ten 4
+http://xtv.ooo:8080/7082785282/90643795158/167595
+#EXTINF:-1 group-title="CRICKET" tvg-logo="https://www.pngkey.com/png/detail/244-2446295_pakistan-ten-sports-channel-logo.png",Ten Cricket
+http://xtv.ooo:8080/7082785282/90643795158/167587
+#EXTINF:-1 group-title="CRICKET" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="CRICKET",IN: STAR SPORTS 1 Hindi
+http://xtv.ooo:8080/7082785282/90643795158/167573
+#EXTINF:-1 group-title="CRICKET" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",Star Sports tamil 1
+http://xtv.ooo:8080/7082785282/90643795158/167574
+#EXTINF:-1 group-title="CRICKET" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png",Star Sports 1 HD
+http://xtv.ooo:8080/7082785282/90643795158/167575
+#EXTINF:-1 group-title="CRICKET" tvg-logo="https://static.epg.best/in/StarSports2.in.png",Star Sports 2 HD
+http://xtv.ooo:8080/7082785282/90643795158/167576
+#EXTINF:-1 group-title="CRICKET" tvg-logo="https://i.pinimg.com/originals/c7/5d/56/c75d563b3cda837cd3fb1ce5ff5089cd.png",Star Sports 3 HD
+http://xtv.ooo:8080/7082785282/90643795158/167577
+#EXTINF:-1 group-title="CRICKET" STAR SPORTS SELECT 1" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png",STAR SPORTS SELECT 1
+http://xtv.ooo:8080/7082785282/90643795158/167578
+#EXTINF:-1 group-title="CRICKET" STAR SPORTS SELECT 2" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png", STAR SPORTS SELECT 2
+http://xtv.ooo:8080/7082785282/90643795158/167579
+#EXTINF:-1 group-title="CRICKET" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png", SONY TEN 5
+http://xtv.ooo:8080/7082785282/90643795158/167580
+#EXTINF:-1 group-title="CRICKET" tvg-logo="https://static.epg.best/my/AstroOnDemand361.my.png", Astro Cricket HD
+http://xtv.ooo:8080/7082785282/90643795158/167581
+#EXTINF:-1 group-title="CRICKET" tvg-logo="https://seeklogo.com/images/S/Super_Sport-logo-3B6B403F2C-seeklogo.com.png",SuperSport Cricket
+http://xtv.ooo:8080/7082785282/90643795158/167592
+#EXTINF:-1 group-title="CRICKET" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png", FOX CRICKET 501
+http://xtv.ooo:8080/7082785282/90643795158/167593
+#EXTINF:-1 group-title="CRICKET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky-sports-main-cricket.jpg",Sky Sports Cricket
+http://xtv.ooo:8080/7082785282/90643795158/167594
+#EXTINF:-1 group-title="CRICKET" tvg-logo="https://5gtv.online:2053/logo/willowxtra1.png", Willow Xtra
+http://xtv.ooo:8080/7082785282/90643795158/167582
+#EXTINF:-1 group-title="CRICKET" tvg-logo="https://static.epg.best/us/WillowCricket.us.png",Willow Cricket HD
+http://xtv.ooo:8080/7082785282/90643795158/167583
+
+
+
+
+
+#EXTINF:-1 group-title="WWW" tvg-logo="https://shorturl.at/prxBZ",WWE Net 
+https://catowrap.live/mrgamingwwenet.m3u8
+
+#EXTINF:-1 group-title="OTHERS" tvg-logo="https://shorturl.at/gjrFJ",TYC Sports
+https://catowrap.live/mrgamingtyc.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png" group-title="Sports",TyC Sports
+http://stream.flynetwifi.com:1935/live/mobile-005/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="Optus Sports" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/10/88/7d/10887da5-24d4-bcdd-faee-f9efff45dc7d/source/512x512bb.jpg",Optus Sport 1
+http://xtv.ooo:8080/7082785282/90643795158/223070
+#EXTINF:-1 group-title="Optus Sports" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/10/88/7d/10887da5-24d4-bcdd-faee-f9efff45dc7d/source/512x512bb.jpg",Optus Sport 2
+http://xtv.ooo:8080/7082785282/90643795158/223071
+#EXTINF:-1 group-title="Optus Sports" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/10/88/7d/10887da5-24d4-bcdd-faee-f9efff45dc7d/source/512x512bb.jpg",Optus Sport 3
+http://xtv.ooo:8080/7082785282/90643795158/223073
+#EXTINF:-1 group-title="Optus Sports" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/10/88/7d/10887da5-24d4-bcdd-faee-f9efff45dc7d/source/512x512bb.jpg",Optus Sport 4
+http://xtv.ooo:8080/7082785282/90643795158/223072
+#EXTINF:-1 group-title="Optus Sports" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/10/88/7d/10887da5-24d4-bcdd-faee-f9efff45dc7d/source/512x512bb.jpg",Optus Sport 5
+http://xtv.ooo:8080/7082785282/90643795158/223074
+#EXTINF:-1 group-title="Optus Sports" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/10/88/7d/10887da5-24d4-bcdd-faee-f9efff45dc7d/source/512x512bb.jpg",Optus Sport 6
+http://xtv.ooo:8080/7082785282/90643795158/223075
+#EXTINF:-1 group-title="Optus Sports" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/10/88/7d/10887da5-24d4-bcdd-faee-f9efff45dc7d/source/512x512bb.jpg",Optus Sport 7
+http://xtv.ooo:8080/7082785282/90643795158/223076
+
+
+
+
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/bb/beIN-MEDIA-GROUP.png" group-title="BEIN SPORTS",•●★--- BeIN Sports ----★●•
+http://xtv.ooo:8080/7082785282/90643795158/222528
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports English 1 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="BEIN SPORTS",AR: BeIN Sports English 1 HD
+http://xtv.ooo:8080/7082785282/90643795158/222532
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports English 2 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="BEIN SPORTS",AR: BeIN Sports English 2 FHD
+http://xtv.ooo:8080/7082785282/90643795158/222534
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports English 3 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_ENGLISH_Digital_Mono.png" group-title="BEIN SPORTS",AR: BeIN Sports English 3 HD
+http://xtv.ooo:8080/7082785282/90643795158/222538
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports News HD" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports_News.png" group-title="BEIN SPORTS",AR: BeIN Sports News HD
+http://xtv.ooo:8080/7082785282/90643795158/222540
+#EXTINF:-1 tvg-id="beinsports4k.qa" tvg-name="AR: BeIN Sports HD*" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports.png" group-title="BEIN SPORTS",AR: BeIN Sports HD*
+http://xtv.ooo:8080/7082785282/90643795158/222542
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN 4K*" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/4k_DIGITAL_Mono.png" group-title="BEIN SPORTS",AR: BeIN 4K*
+http://xtv.ooo:8080/7082785282/90643795158/222543
+#EXTINF:-1 tvg-id="beinsportsmax1ar.qa" tvg-name="AR: BeIN Sports Max 1" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F654%2Fbein-sports-max-1.png" group-title="BEIN SPORTS",AR: BeIN Sports Max 1
+http://xtv.ooo:8080/7082785282/90643795158/222544
+#EXTINF:-1 tvg-id="beinsportsmax2.qa" tvg-name="AR: BeIN Sports Max 2" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F653%2Fbein-sports-max-1.png" group-title="BEIN SPORTS",AR: BeIN Sports Max 2
+http://xtv.ooo:8080/7082785282/90643795158/222545

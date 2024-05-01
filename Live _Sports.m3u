@@ -16,6 +16,11 @@ https://pubads.g.doubleclick.net/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8
 #EXTINF:-1 tvg-logo="https://media.premiumtimesng.com/wp-content/files/2018/11/uefa-champions-league-rebranding-2018-2021-7.jpg" group-title="LIVE EVENTS", UCL 2
 https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8
 
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="CRI: SONY TEN 1 HD" tvg-logo="https://i.ytimg.com/vi/QOx79orcb1I/maxresdefault.jpg" group-title="CRICKET",CRI: SONY TEN 1 HD
+https://fifabd9-fun-tho5.spidy.online/LIV/play.m3u8?id=wG75n5U8RrOKiFzaWObXbA&q=4
+
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="CRI: SONY TEN 1 HD" tvg-logo="https://i.ytimg.com/vi/QOx79orcb1I/maxresdefault.jpg" group-title="CRICKET",CRI: SONY TEN 2 HD
+https://fifabd9-fun-tho5.spidy.online/LIV/play.m3u8?id=V9h-iyOxRiGp41ppQScDSQ&q=4
 
 #EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/21/large/20190121143751421139_73.png" group-title="Sports",[BD]sky sport main event
 https://epg.pw/stream/40ad3049d0aa76b6b54476bb20a19c0d715c2f09aa745b955229531c0afb8fb9.ctv

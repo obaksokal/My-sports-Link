@@ -3,8 +3,6 @@
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2889/logo/240x240/mobile_logo_211907001709470250.png" group-title="IPL", T Sports BDIX
 https://live-cdn.tsports.com/live-02/index.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/291605/logo/240x240/mobile_logo_183555001714457565.png" group-title="LIVE EVENTS", BAN vs ZIM VIP
 https://mprod-cdn.toffeelive.com/live/match-3/index.m3u8%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1714788169:KeyName=prod_live_events:Signature=31hEw2fsku_vnccWAUeXoITTKaf0r76jyL6yQ0oFRQLNDRPyLAmXnXhW0---bSbt0nQY6JAJ3u9motFe48zfCw
   
@@ -16,6 +14,8 @@ https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8%7Ccookie=Edge-Cache-Coo
 https://live-cdn.tsports.com/live-02/index.m3u8%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1714770790:KeyName=tsports-ed25519-01:Signature=IXEtt1lDoY1VDJAB7xOnG_86PkVFRfYIngatZPEnOpowVoN5aPk87Yb2ykAS_u9eXMX3fIaz-P_DesKSe2gxDQ
 #EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1712161103-LIVE.jpg" group-title="LIVE EVENTS", T Sports Live
 https://live-cdn.tsports.com/live-01/index.m3u8%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1714770790:KeyName=tsports-ed25519-01:Signature=IXEtt1lDoY1VDJAB7xOnG_86PkVFRfYIngatZPEnOpowVoN5aPk87Yb2ykAS_u9eXMX3fIaz-P_DesKSe2gxDQ
+
+
 
 #### UCL ####
 #EXTINF:-1 tvg-logo="https://media.premiumtimesng.com/wp-content/files/2018/11/uefa-champions-league-rebranding-2018-2021-7.jpg" group-title="LIVE EVENTS", UCL 1

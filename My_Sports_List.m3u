@@ -7,6 +7,8 @@ https://live-cdn.tsports.com/live-02/master_1920.m3u8
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBnv1W-Xsu9K5X84JtFAU1_SBM17tcDj0COscKQ01xreC4eA_qTeXZbxs&s=10" group-title="LIVE EVENTS",Bangladesh Vs Zimbabwe
 https://live-cdn.tsports.com/live-01/index.m3u8
 http://103.151.60.214:7444/1101/video.m3u8
+http://103.151.60.214:7444/1102/video.m3u8
+
 
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="CRI: SONY TEN 1 HD" tvg-logo="https://i.ytimg.com/vi/QOx79orcb1I/maxresdefault.jpg" group-title="CRICKET",SONY TEN 2 HD
 https://fifabd9-fun-tho5.spidy.online/LIV/play.m3u8?id=V9h-iyOxRiGp41ppQScDSQ&q=4

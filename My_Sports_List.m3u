@@ -10,6 +10,12 @@ http://103.151.60.214:7444/1101/video.m3u8
 http://103.151.60.214:7444/1102/video.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://media.premiumtimesng.com/wp-content/files/2018/11/uefa-champions-league-rebranding-2018-2021-7.jpg" group-title="UCL", UCL 1
+https://pubads.g.doubleclick.net/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8
+#EXTINF:-1 tvg-logo="https://media.premiumtimesng.com/wp-content/files/2018/11/uefa-champions-league-rebranding-2018-2021-7.jpg" group-title="UCL", UCL 2
+https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8
+
+
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="CRI: SONY TEN 1 HD" tvg-logo="https://i.ytimg.com/vi/QOx79orcb1I/maxresdefault.jpg" group-title="CRICKET",SONY TEN 2 HD
 https://fifabd9-fun-tho5.spidy.online/LIV/play.m3u8?id=V9h-iyOxRiGp41ppQScDSQ&q=4
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/192.ts

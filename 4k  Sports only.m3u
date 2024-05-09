@@ -1,0 +1,269 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Astro.SuperSport.UHD.1.my" tvg-logo="https://i.imgur.com/LIxOI3U.png" group-title="ASTRO UHD",AstroSuperSportUHD
+http://connect-uk.proxytx.cloud/play/live.php?mac=10:27:BE:2F:15:8C&stream=1479590&extension=ts
+#EXTINF:-1 tvg-id="Astro.SuperSport.UHD.1.my" tvg-logo="https://i.imgur.com/LIxOI3U.png" group-title="ASTRO UHD",AstroSuperSportUHD
+http://magonlyx.abcott.me/play/live.php?mac=00:1a:79:c1:49:ac&stream=14707590&extension=ts
+#EXTINF:-1 tvg-id="Astro.SuperSport.UHD.1.my" tvg-logo="https://i.imgur.com/LIxOI3U.png" group-title="ASTRO UHD",AstroSuperSportUHD
+http://s.akapolska.com/play/live.php?mac=00:1A:79:00:01:A0&stream=14707590&extension=ts
+#EXTINF:-1 tvg-id="Astro.SuperSport.UHD.1.my" tvg-logo="https://i.imgur.com/LIxOI3U.png" group-title="ASTRO UHD",AstroSuperSportUHD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:07:E7:41&stream=1479590&extension=ts&play_token=plvzSqVnhu
+#EXTINF:-1 tvg-id="Astro.SuperSport.UHD.1.my" tvg-logo="https://i.imgur.com/LIxOI3U.png" group-title="ASTRO UHD",AstroSuperSportUHD
+http://28779-press.cloud-ott.me:80/play/live.php?mac=00:1A:79:C2:06:C7&stream=1479590&extension=ts&play_token=34REaTTPcW
+#EXTINF:-1 tvg-id="Astro.SuperSport.UHD.1.my" tvg-logo="https://i.imgur.com/LIxOI3U.png" group-title="ASTRO UHD",AstroSuperSportUHD
+http://rajtv.online:80/play/live.php?mac=00:1A:79:7c:5f:b6&stream=1479590&extension=ts&play_token=tzw66EwnJf
+#EXTINF:-1 tvg-id="Astro.SuperSport.UHD.1.my" tvg-logo="https://i.imgur.com/LIxOI3U.png" group-title="ASTRO UHD",AstroSuperSportUHD
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=1479590&extension=ts&play_token=JGjaRAwFDY
+
+#EXTINF:-1 tvg-id="4k_DIGITAL_Mono_EN.bein" tvg-logo="https://i.imgur.com/ZYpUQ3w.png" group-title="BEIN UHD",beIN 4K
+http://s.akapolska.com:80/play/live.php?mac=00:1A:79:00:01:A0&stream=1500113&extension=ts&play_token=uJn3eHiZSH
+#EXTINF:-1 tvg-id="4k_DIGITAL_Mono_EN.bein" tvg-logo="https://i.imgur.com/ZYpUQ3w.png" group-title="BEIN UHD",beIN 4K
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:07:E7:41&stream=1500113&extension=ts&play_token=SN1tFCCM02
+#EXTINF:-1 tvg-id="4k_DIGITAL_Mono_EN.bein" tvg-logo="https://i.imgur.com/ZYpUQ3w.png" group-title="BEIN UHD",beIN 4K
+http://28779-press.cloud-ott.me:80/play/live.php?mac=00:1A:79:C2:06:C7&stream=1500113&extension=ts&play_token=WXDy9FpDHM
+#EXTINF:-1 tvg-id="4k_DIGITAL_Mono_EN.bein" tvg-logo="https://i.imgur.com/ZYpUQ3w.png" group-title="BEIN UHD",beIN 4K
+http://rajtv.online:80/play/live.php?mac=00:1A:79:7c:5f:b6&stream=1500113&extension=ts&play_token=I7ob33evit
+
+
+
+#EXTINF:-1 tvg-id="Hub.Premier.2.(HD).sg" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="HUB/EPL",HUBPremier2UHD
+http://connect-uk.proxytx.cloud/play/live.php?mac=10:27:BE:2F:15:8C&stream=1479590&extension=ts
+#EXTINF:-1 tvg-id="Hub.Premier.2.(HD).sg" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="HUB/EPL",HUBPremier2UHD
+http://gtvstreams.me/play/live.php?mac=00:1A:79:4E:55:93&stream=377463&extension=ts
+#EXTINF:-1 tvg-id="Hub.Premier.2.(HD).sg" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="HUB/EPL",HUBPremier2UHD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:07:E7:41&stream=1032518&extension=ts&play_token=jX18uOfcLy
+
+#EXTINF:-1 tvg-id="HubPremier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png" group-title="HUB/EPL", HubPremier1-FHD
+http://keycdn.co/play/live.php?mac=00:1A:79:76:96:35&stream=579220&extension=ts
+#EXTINF:-1 tvg-id="HubPremier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png" group-title="HUB/EPL", HubPremier1-FHD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:07:E7:41&stream=1032529&extension=ts&play_token=t3qvZOGBPY
+
+#EXTINF:-1 tvg-id="Hub.Premier.2.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png" group-title="HUB/EPL", HubPremier2-FHD
+http://keycdn.co/play/live.php?mac=00:1A:79:76:96:35&stream=579219&extension=ts
+
+
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="SKY/EPL",SkySports_MainEventUHD
+http://ledir.thund.re:80/play/live.php?mac=00:1a:79:01:00:02&stream=565420&extension=ts&play_token=rPMm1b6Gi0
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="SKY/EPL",SkySports_MainEventUHD
+http://magonlyx.abcott.me/play/live.php?mac=00:1a:79:c1:49:ac&stream=1471381&extension=ts
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="SKY/EPL",SkySports_MainEventUHD
+http://gtvstreams.me/play/live.php?mac=00:1A:79:4E:55:93&stream=789496&extension=ts
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="SKY/EPL",SkySports_MainEventUHD
+http://s.akapolska.com/play/live.php?mac=00:1A:79:00:01:A0&stream=1471381&extension=ts
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="SKY/EPL",SkySports_MainEventUHD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:07:E7:41&stream=1471381&extension=ts&play_token=evZunB9J7J
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="SKY/EPL",SkySports_MainEventUHD
+http://28779-press.cloud-ott.me:80/play/live.php?mac=00:1A:79:C2:06:C7&stream=1471381&extension=ts&play_token=ZlFMCBQQUC
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="SKY/EPL",SkySports_MainEventUHD
+http://rajtv.online:80/play/live.php?mac=00:1A:79:7c:5f:b6&stream=1471381&extension=ts&play_token=i2CaMmlu7l
+
+
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.imgur.com/mnAYZiQ.png" group-title="SKY/EPL", SkySports_MainEvent-FHD
+http://magonlyx.abcott.me/play/live.php?mac=00:1a:79:c1:49:ac&stream=988357&extension=ts
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.imgur.com/mnAYZiQ.png" group-title="SKY/EPL", SkySports_MainEvent-FHD
+http://gtvstreams.me/play/live.php?mac=00:1A:79:4E:55:93&stream=795099&extension=ts
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.imgur.com/mnAYZiQ.png" group-title="SKY/EPL", SkySports_MainEvent-FHD
+http://s.akapolska.com:80/play/live.php?mac=00:1A:79:00:01:A0&stream=1458672&extension=ts&play_token=tPsR8d4B0h
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.imgur.com/mnAYZiQ.png" group-title="SKY/EPL", SkySports_MainEvent-FHD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:07:E7:41&stream=1458672&extension=ts&play_token=cNHO3MzUlf
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.imgur.com/mnAYZiQ.png" group-title="SKY/EPL", SkySports_MainEvent-FHD
+http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:53:0C:CB&stream=5531&extension=ts&play_token=wsToDbNC15
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.imgur.com/mnAYZiQ.png" group-title="SKY/EPL", SkySports_MainEvent-FHD
+http://ledir.thund.re:80/play/live.php?mac=00:1a:79:01:00:02&stream=456106&extension=ts&play_token=d7UCnHGYaK
+
+
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/dUAIbXN.png" group-title="SKY/EPL", SkySports_PremierLeague UHD
+http://gtvstreams.me/play/live.php?mac=00:1A:79:4E:55:93&stream=789498&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/dUAIbXN.png" group-title="SKY/EPL", SkySports_PremierLeague-FHD
+http://magonlyx.abcott.me/play/live.php?mac=00:1a:79:c1:49:ac&stream=1458669&extension=ts
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/dUAIbXN.png" group-title="SKY/EPL", SkySports_PremierLeague-FHD
+http://gtvstreams.me/play/live.php?mac=00:1A:79:4E:55:93&stream=795086&extension=ts
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/dUAIbXN.png" group-title="SKY/EPL", SkySports_PremierLeague-FHD
+http://s.akapolska.com:80/play/live.php?mac=00:1A:79:00:01:A0&stream=1458669&extension=ts&play_token=oBoF3btvSA
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/dUAIbXN.png" group-title="SKY/EPL", SkySports_PremierLeague-FHD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:07:E7:41&stream=1458669&extension=ts&play_token=TQUrIDu5pp
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/dUAIbXN.png" group-title="SKY/EPL", SkySports_PremierLeague-FHD
+http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:53:0C:CB&stream=5535&extension=ts&play_token=AbFBtqONoz
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/dUAIbXN.png" group-title="SKY/EPL", SkySports_PremierLeague-FHD
+http://ledir.thund.re:80/play/live.php?mac=00:1a:79:01:00:02&stream=456103&extension=ts&play_token=mX9uN8GIBr
+
+
+#EXTINF:-1 tvg-id="TNT.Sport.Ultimate.uk" tvg-logo="https://media.info/l/o/5/5824.1689874022.png" group-title="EPL/UCL",TNTSport_Ultimate-4K_HDR
+https://7pal.short.gy/TNTUltimate
+#EXTINF:-1 tvg-id="TNT.Sport.Ultimate.uk" tvg-logo="https://media.info/l/o/5/5824.1689874022.png" group-title="EPL/UCL",TNTSport_Ultimate-4K_HDR
+http://ledir.thund.re:80/play/live.php?mac=00:1a:79:01:00:02&stream=565418&extension=ts&play_token=gY8ypmcFYy
+
+
+#EXTINF:-1 tvg-id="TNTSports1.HD.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="EPL/UCL", TNTSports1-FHD
+http://magonlyx.abcott.me/play/live.php?mac=00:1a:79:c1:49:ac&stream=1458678&extension=ts
+#EXTINF:-1 tvg-id="TNTSports1.HD.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="EPL/UCL", TNTSports1-FHD
+http://gtvstreams.me/play/live.php?mac=00:1A:79:4E:55:93&stream=231714&extension=ts
+#EXTINF:-1 tvg-id="TNTSports1.HD.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="EPL/UCL", TNTSports1-FHD
+http://keycdn.co/play/live.php?mac=00:1A:79:76:96:35&stream=331483&extension=ts
+#EXTINF:-1 tvg-id="TNTSports1.HD.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="EPL/UCL", TNTSports1-FHD
+http://s.akapolska.com:80/play/live.php?mac=00:1A:79:00:01:A0&stream=1363054&extension=ts&play_token=zakMiNPJFC
+#EXTINF:-1 tvg-id="TNTSports1.HD.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="EPL/UCL", TNTSports1-FHD
+http://28779-press.cloud-ott.me:80/play/live.php?mac=00:1A:79:C2:06:C7&stream=1363054&extension=ts&play_token=zXYJLalb14
+#EXTINF:-1 tvg-id="TNTSports1.HD.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="EPL/UCL", TNTSports1-FHD
+http://s.akapolska.com:80/play/live.php?mac=00:1A:79:00:01:A0&stream=1458678&extension=ts&play_token=5RpmnA2LF1
+#EXTINF:-1 tvg-id="TNTSports1.HD.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="EPL/UCL", TNTSports1-FHD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:07:E7:41&stream=1458678&extension=ts&play_token=G4PjOndkjg
+#EXTINF:-1 tvg-id="TNTSports1.HD.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="EPL/UCL", TNTSports1-FHD
+http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:53:0C:CB&stream=4457&extension=ts&play_token=twb6ryYZ9m
+#EXTINF:-1 tvg-id="TNTSports1.HD.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="EPL/UCL", TNTSports1-FHD
+http://keycdn.co:80/play/live.php?mac=00:1A:79:6F:ED:52&stream=331483&extension=ts&play_token=8Sko3qxNXD
+
+
+#EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="EPL/UCL", TNTSports2-FHD
+http://magonlyx.abcott.me/play/live.php?mac=00:1a:79:c1:49:ac&stream=1458666&extension=ts
+#EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="EPL/UCL", TNTSports2-FHD
+http://gtvstreams.me/play/live.php?mac=00:1A:79:4E:55:93&stream=795127&extension=ts
+#EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="EPL/UCL", TNTSports2-FHD
+http://s.akapolska.com:80/play/live.php?mac=00:1A:79:00:01:A0&stream=1458666&extension=ts&play_token=t8zWyABWnj
+#EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="Sports", TNTSports2-FHD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:07:E7:41&stream=1458666&extension=ts&play_token=wP4XcJvhq0
+#EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="Sports", TNTSports2-FHD
+http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:53:0C:CB&stream=4458&extension=ts&play_token=KYUDwTHTaX
+
+
+
+#EXTINF:-1 tvg-id="4k DAZN LALIGA" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="LA LIGA",DAZN LALIGA TV UHD
+http://connect-uk.proxytx.cloud/play/live.php?mac=10:27:BE:2F:15:8C&stream=1471376&extension=ts
+#EXTINF:-1 tvg-id="4k DAZN LALIGA" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="LA LIGA",DAZN LALIGA TV UHD
+http://magonlyx.abcott.me/play/live.php?mac=00:1a:79:c1:49:ac&stream=1471376&extension=ts
+#EXTINF:-1 tvg-id="4k DAZN LALIGA" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="LA LIGA",DAZN LALIGA TV UHD
+http://s.akapolska.com:80/play/live.php?mac=00:1A:79:00:01:A0&stream=1471376&extension=ts&play_token=ix6MvN6eqa
+#EXTINF:-1 tvg-id="4k DAZN LALIGA" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="LA LIGA",DAZN LALIGA TV UHD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:07:E7:41&stream=1471376&extension=ts&play_token=Q8cIjXz8YY
+#EXTINF:-1 tvg-id="4k DAZN LALIGA" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="LA LIGA",DAZN LALIGA TV UHD
+http://28779-press.cloud-ott.me:80/play/live.php?mac=00:1A:79:C2:06:C7&stream=1471376&extension=ts&play_token=rSq4a1TSFj
+#EXTINF:-1 tvg-id="4k DAZN LALIGA" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="LA LIGA",DAZN LALIGA TV UHD
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=1471376&extension=ts&play_token=5yIOpVayWr
+
+#EXTINF:-1 tvg-id="LA.LIGA.za" tvg-logo="https://images.supersport.com/media/ngsfbrab/laliga.png" group-title="LA LIGA", Supersport_Laliga-FHD
+http://23232.top/play/live.php?mac=00:1A:79:C6:37:1B&stream=239076&extension=ts
+#EXTINF:-1 tvg-id="LA.LIGA.za" tvg-logo="https://images.supersport.com/media/ngsfbrab/laliga.png" group-title="LA LIGA", Supersport_Laliga-FH
+http://keycdn.co/play/live.php?mac=00:1A:79:76:96:35&stream=577250&extension=ts
+
+
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/YqTCkGk.png" group-title="LA LIGA", PremierSports1-FHD
+http://magonlyx.abcott.me/play/live.php?mac=00:1a:79:c1:49:ac&stream=1458647&extension=ts
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/YqTCkGk.png" group-title="LA LIGA", PremierSports1-FHD
+http://s.akapolska.com:80/play/live.php?mac=00:1A:79:00:01:A0&stream=1458647&extension=ts&play_token=pSCztQCfMd
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/YqTCkGk.png" group-title="LA LIGA", PremierSports1-FHD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:07:E7:41&stream=1458647&extension=ts&play_token=3Bu9BHk2z0
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/YqTCkGk.png" group-title="LA LIGA", PremierSports1-FHD
+http://grtsa.sralm87.com:2082/play/live.php?mac=00:1A:79:59:4F:74&stream=54878&extension=ts
+
+
+#EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/RenHhOi.png" group-title="LA LIGA", PremierSports2-FHD
+http://s.akapolska.com:80/play/live.php?mac=00:1A:79:00:01:A0&stream=1458641&extension=ts&play_token=QzThTOiRAt
+
+
+
+
+#EXTINF:-1 tvg-id="English.-.Now.Sports.4K.1.hk" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png" group-title="NOW/EPL",NowSports1-4k
+http://connect-uk.proxytx.cloud/play/live.php?mac=10:27:BE:2F:15:8C&stream=1470622&extension=ts
+#EXTINF:-1 tvg-id="English.-.Now.Sports.4K.1.hk" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png" group-title="NOW/EPL",NowSports1-4k
+http://magonlyx.abcott.me/play/live.php?mac=00:1a:79:c1:49:ac&stream=1470622&extension=ts
+#EXTINF:-1 tvg-id="English.-.Now.Sports.4K.1.hk" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png" group-title="NOW/EPL",NowSports1-4k
+http://s.akapolska.com/play/live.php?mac=00:1A:79:00:01:A0&stream=1470622&extension=ts
+#EXTINF:-1 tvg-id="English.-.Now.Sports.4K.1.hk" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png" group-title="NOW/EPL",NowSports1-4k
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:07:E7:41&stream=1470622&extension=ts&play_token=TBNntlcREj
+#EXTINF:-1 tvg-id="English.-.Now.Sports.4K.1.hk" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png" group-title="NOW/EPL",NowSports1-4k
+http://28779-press.cloud-ott.me:80/play/live.php?mac=00:1A:79:C2:06:C7&stream=1470622&extension=ts&play_token=TBBffff1SZ
+#EXTINF:-1 tvg-id="English.-.Now.Sports.4K.1.hk" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png" group-title="NOW/EPL",NowSports1-4k
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=1470622&extension=ts&play_token=86TVmjqDA5
+
+
+
+
+#EXTINF:-1 tvg-id="5SPORT.4K.[Sport.5.4K].il" tvg-logo="https://i.imgur.com/EPIy6eZ.png" group-title="UCL",5Sport4K
+http://magonlyx.abcott.me/play/live.php?mac=00:1a:79:c1:49:ac&stream=1470620&extension=ts
+#EXTINF:-1 tvg-id="5SPORT.4K.[Sport.5.4K].il" tvg-logo="https://i.imgur.com/EPIy6eZ.png" group-title="UCL",5Sport4K
+http://s.akapolska.com:80/play/live.php?mac=00:1A:79:00:01:A0&stream=1470620&extension=ts&play_token=KyoamF6Qxa
+#EXTINF:-1 tvg-id="5SPORT.4K.[Sport.5.4K].il" tvg-logo="https://i.imgur.com/EPIy6eZ.png" group-title="UCL",5Sport4K
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:07:E7:41&stream=1470620&extension=ts&play_token=bAuuJMofZI
+#EXTINF:-1 tvg-id="5SPORT.4K.[Sport.5.4K].il" tvg-logo="https://i.imgur.com/EPIy6eZ.png" group-title="UCL",5Sport4K
+http://28779-press.cloud-ott.me:80/play/live.php?mac=00:1A:79:C2:06:C7&stream=1470620&extension=ts&play_token=oIA9uwGlY5
+#EXTINF:-1 tvg-id="5SPORT.4K.[Sport.5.4K].il" tvg-logo="https://i.imgur.com/EPIy6eZ.png" group-title="UCL",5Sport4K
+http://rajtv.online:80/play/live.php?mac=00:1A:79:7c:5f:b6&stream=1470620&extension=ts&play_token=YUvvG7N8wH
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="ESPN UHD" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="Sports",ESPN UHD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:07:E7:41&stream=1481941&extension=ts&play_token=9u6wlLIzFz
+#EXTINF:-1 tvg-id="ESPN UHD" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="Sports",ESPN UHD
+http://28779-press.cloud-ott.me:80/play/live.php?mac=00:1A:79:C2:06:C7&stream=1481941&extension=ts&play_token=mDZrfiR0Rn
+#EXTINF:-1 tvg-id="ESPN UHD" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="Sports",ESPN UHD
+http://rajtv.online:80/play/live.php?mac=00:1A:79:7c:5f:b6&stream=1481941&extension=ts&play_token=LSm2WmHBtP
+#EXTINF:-1 tvg-id="ESPN UHD" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="Sports",ESPN UHD
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=1481941&extension=ts&play_token=kMfoyA42Wp
+#EXTINF:-1 tvg-id="ESPN UHD" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="Sports",ESPN UHD
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=1491209&extension=ts&play_token=M3qQMMLFNo
+
+#EXTINF:-1 tvg-id="UHD 1" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="Sports",UHD 1 BY ASTRA
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:07:E7:41&stream=1491209&extension=ts&play_token=fAfuf0tR5j
+#EXTINF:-1 tvg-id="UHD 1" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="Sports",UHD 1 BY ASTRA
+http://28779-press.cloud-ott.me:80/play/live.php?mac=00:1A:79:C2:06:C7&stream=1491209&extension=ts&play_token=m00gcmkgn6
+#EXTINF:-1 tvg-id="UHD 1" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="Sports",UHD 1 BY ASTRA
+http://rajtv.online:80/play/live.php?mac=00:1A:79:7c:5f:b6&stream=1491209&extension=ts&play_token=fMvgfnszka
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="English.-.ZIGGO SPORTS UHD" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png" group-title="Sports",ZIGGO SPORTS UHD
+http://magonlyx.abcott.me/play/live.php?mac=00:1a:79:c1:49:ac&stream=1481950&extension=ts
+#EXTINF:-1 tvg-id="English.-.ZIGGO SPORTS UHD" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png" group-title="Sports",ZIGGO SPORTS UHD
+http://s.akapolska.com/play/live.php?mac=00:1A:79:00:01:A0&stream=1481950&extension=ts
+#EXTINF:-1 tvg-id="English.-.ZIGGO SPORTS UHD" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png" group-title="Sports",ZIGGO SPORTS UHD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:07:E7:41&stream=1481950&extension=ts&play_token=gY9y1G4RFS
+#EXTINF:-1 tvg-id="English.-.ZIGGO SPORTS UHD" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png" group-title="Sports",ZIGGO SPORTS UHD
+http://28779-press.cloud-ott.me:80/play/live.php?mac=00:1A:79:C2:06:C7&stream=1481950&extension=ts&play_token=9IQmXFBBjN
+#EXTINF:-1 tvg-id="English.-.ZIGGO SPORTS UHD" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png" group-title="Sports",ZIGGO SPORTS UHD
+http://rajtv.online:80/play/live.php?mac=00:1A:79:7c:5f:b6&stream=1481950&extension=ts&play_token=2L1kJ5n2lA
+#EXTINF:-1 tvg-id="English.-.ZIGGO SPORTS UHD" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png" group-title="Sports",ZIGGO SPORTS UHD
+http://rajtv.online:80/play/live.php?mac=00:1A:79:7c:5f:b6&stream=1470622&extension=ts&play_token=tM72UscijX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="EPL.za" tvg-logo="https://images.supersport.com/media/yvuloxza/premier-league-1.png" group-title="EPL", Supersport_Premier_League-FHD
+http://kstv.us:8080/live/666r2amliu/lSfUe486EA/47633.ts
+#EXTINF:-1 tvg-id="EPL.za" tvg-logo="https://images.supersport.com/media/yvuloxza/premier-league-1.png" group-title="EPL", Supersport_Premier_League-FHD
+http://keycdn.co/play/live.php?mac=00:1A:79:76:96:35&stream=577249&extension=ts
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-logo="https://static.sky.co.nz/sky/channel-logos/Sky_Sport_Premier_League_Channel_Logo.png" group-title="EPL", SkySport8-PremierLeague_NZ-FHD
+http://keycdn.co/play/live.php?mac=00:1A:79:76:96:35&stream=575678&extension=ts
+#EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-logo="https://static.sky.co.nz/sky/channel-logos/Sky_Sport_Premier_League_Channel_Logo.png" group-title="EPL", SkySport8-PremierLeague_NZ-FHD
+http://keycdn.co:80/play/live.php?mac=00:1A:79:6F:ED:52&stream=575678&extension=ts&play_token=dCJDw6wdkF
+

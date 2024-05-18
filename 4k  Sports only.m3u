@@ -3,7 +3,8 @@
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.UHD.1.my" tvg-logo="https://i.imgur.com/LIxOI3U.png" group-title="ASTRO UHD",AstroSuperSportUHD
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1a:79:c1:49:ac&stream=1479590&extension=ts&play_token=5bbOmdwY1d
-
+#EXTINF:-1 tvg-id="Astro.SuperSport.UHD.1.my" tvg-logo="https://i.imgur.com/LIxOI3U.png" group-title="ASTRO UHD",AstroSuperSportUHD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:c1:73:6c&stream=1479590&extension=ts&play_token=MfFbEZzwfk
 #EXTINF:-1 tvg-id="Astro.SuperSport.UHD.1.my" tvg-logo="https://i.imgur.com/LIxOI3U.png" group-title="ASTRO UHD",AstroSuperSportUHD
 http://28779-press.cloud-ott.me:80/play/live.php?mac=00:1A:79:C2:06:C7&stream=1479590&extension=ts&play_token=34REaTTPcW
 #EXTINF:-1 tvg-id="Astro.SuperSport.UHD.1.my" tvg-logo="https://i.imgur.com/LIxOI3U.png" group-title="ASTRO UHD",AstroSuperSportUHD
@@ -25,8 +26,8 @@ http://rajtv.online:80/play/live.php?mac=00:1A:79:7c:5f:b6&stream=1500113&extens
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1a:79:c1:49:ac&stream=1470619&extension=ts&play_token=211FN37ito
 #EXTINF:-1 tvg-id="Hub.Premier.2.(HD).sg" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="HUB/EPL",HUBPremier2UHD
 http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:53:0C:CB&stream=569043&extension=ts&play_token=TW64sV2NQK
-
-
+#EXTINF:-1 tvg-id="Hub.Premier.2.(HD).sg" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="HUB/EPL",HUBPremier2UHD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:c1:73:6c&stream=1470619&extension=ts&play_token=5V3tDHOIg7
 
 #EXTINF:-1 tvg-id="HubPremier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png" group-title="HUB/EPL", HubPremier1-FHD
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:07:E7:41&stream=1032529&extension=ts&play_token=t3qvZOGBPY
@@ -100,8 +101,8 @@ http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:53:0C:CB&stream=4458&extensi
 
 #EXTINF:-1 tvg-id="4k DAZN LALIGA" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="LA LIGA",DAZN LALIGA TV UHD
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1a:79:c1:49:ac&stream=1471376&extension=ts&play_token=357qaqPJ45
-
-
+#EXTINF:-1 tvg-id="4k DAZN LALIGA" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="LA LIGA",DAZN LALIGA TV UHD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:c1:73:6c&stream=1471376&extension=ts&play_token=20sz49WZYm
 #EXTINF:-1 tvg-id="4k DAZN LALIGA" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="LA LIGA",DAZN LALIGA TV UHD
 http://28779-press.cloud-ott.me:80/play/live.php?mac=00:1A:79:C2:06:C7&stream=1471376&extension=ts&play_token=rSq4a1TSFj
 #EXTINF:-1 tvg-id="4k DAZN LALIGA" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="LA LIGA",DAZN LALIGA TV UHD
@@ -129,8 +130,8 @@ http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:53:0C:CB&stream=594609&exten
 http://28779-press.cloud-ott.me:80/play/live.php?mac=00:1A:79:C2:06:C7&stream=1470622&extension=ts&play_token=TBBffff1SZ
 #EXTINF:-1 tvg-id="English.-.Now.Sports.4K.1.hk" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png" group-title="NOW/EPL",NowSports1-4k
 http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=1470622&extension=ts&play_token=86TVmjqDA5
-
-
+#EXTINF:-1 tvg-id="English.-.Now.Sports.4K.1.hk" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png" group-title="NOW/EPL",NowSports1-4k
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:c1:73:6c&stream=1470622&extension=ts&play_token=6fGHH7IWA3
 
 
 #EXTINF:-1 tvg-id="5SPORT.4K.[Sport.5.4K].il" tvg-logo="https://i.imgur.com/EPIy6eZ.png" group-title="UCL",5Sport4K
@@ -140,8 +141,8 @@ http://magonlyx.abcott.me:80/play/live.php?mac=00:1a:79:c1:49:ac&stream=1470620&
 http://28779-press.cloud-ott.me:80/play/live.php?mac=00:1A:79:C2:06:C7&stream=1470620&extension=ts&play_token=oIA9uwGlY5
 #EXTINF:-1 tvg-id="5SPORT.4K.[Sport.5.4K].il" tvg-logo="https://i.imgur.com/EPIy6eZ.png" group-title="UCL",5Sport4K
 http://rajtv.online:80/play/live.php?mac=00:1A:79:7c:5f:b6&stream=1470620&extension=ts&play_token=YUvvG7N8wH
-
-
+#EXTINF:-1 tvg-id="5SPORT.4K.[Sport.5.4K].il" tvg-logo="https://i.imgur.com/EPIy6eZ.png" group-title="UCL",5Sport4K
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:c1:73:6c&stream=1470620&extension=ts&play_token=1AmBDsMF4A
 
 
 

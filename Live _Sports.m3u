@@ -18,18 +18,40 @@ https://bunyhlsipla.bunycdn.com/live/720pa.m3u8
 https://bunyhlsipla.bunycdn.com/live/1080pa.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/291605/logo/240x240/mobile_logo_183555001714457565.png", BAN vs ZIM VIP
-https://mprod-cdn.toffeelive.com/live/match-3/index.m3u8%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1714788169:KeyName=prod_live_events:Signature=31hEw2fsku_vnccWAUeXoITTKaf0r76jyL6yQ0oFRQLNDRPyLAmXnXhW0---bSbt0nQY6JAJ3u9motFe48zfCw
 
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBnv1W-Xsu9K5X84JtFAU1_SBM17tcDj0COscKQ01xreC4eA_qTeXZbxs&s=10" group-title="LIVE EVENTS",BANGLADESHI Vs Zimbabwe
-https://live-cdn.tSPORTS.com/live-01/index.m3u8
-http://103.151.60.214:7444/1101/video.m3u8
 
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBnv1W-Xsu9K5X84JtFAU1_SBM17tcDj0COscKQ01xreC4eA_qTeXZbxs&s=10" group-title="LIVE EVENTS",BANGLADESHI Vs Zimbabwe
-http://103.151.60.214:7444/1102/video.m3u8
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.ytimg.com/vi/qF2HkAw8Jo4/maxresdefault.jpg",Bangladesh Vs United States
+https://fightprofleague.akamaized.net/hls/live/2111367/pfl2024/master.m3u8
 
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBnv1W-Xsu9K5X84JtFAU1_SBM17tcDj0COscKQ01xreC4eA_qTeXZbxs&s=10" group-title="LIVE EVENTS",BANGLADESHI Vs Zimbabwe
-https://SPORTS.lvyclv.com/live/m33242084/playlist.m3u8
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.ytimg.com/vi/qF2HkAw8Jo4/maxresdefault.jpg",Bangladesh Vs United States
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=nagorik_tv
+
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.ytimg.com/vi/qF2HkAw8Jo4/maxresdefault.jpg",Bangladesh Vs United States
+https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=4b9f3e6dd79cbd091
+
+
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",IPL 2024 Live ENG FHD
+http://starshare.live:8080/live/Sylvia/Sylvia/18452.m3u8
+
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",IPL 2024 Live ENG HD
+http://starshare.live:8080/live/Sylvia/Sylvia/767.m3u8
+
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",IPL 2024 Live ENG
+https://tgaadi-web.tech/trex.php?tv=282673
+
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",IPL 2024 Live ENG
+https://tgaadi-web.tech/trex.php?tv=1114582
+
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",IPL 2024 Live HINDI
+https://bunyhlsipla.bunycdn.com/live/1080pa.m3u8
+
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",IPL 2024 Live 
+https://sports.lvyclv.com/live/m33287892/playlist.m3u8
+
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/sDRYCTmH/20240321-192447.png",IPL 2024 BANGLA (LIVE ONLY MATCH TIME)
+http://starshare.live:8080/live/Sylvia/Sylvia/304296.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/26939/logo/240x240/mobile_logo_570467001711149160.png" group-title="LIVE EVENTS", IPL Toffee

@@ -1,150 +1,139 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2889/logo/240x240/mobile_logo_211907001709470250.png" group-title="IPL 2024", T Sports BDIX
-https://live-cdn.tsports.com/live-02/index.m3u8
-https://live-cdn.tsports.com/live-02/master_1920.m3u8
-
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBnv1W-Xsu9K5X84JtFAU1_SBM17tcDj0COscKQ01xreC4eA_qTeXZbxs&s=10" group-title="LIVE EVENTS",Bangladesh Vs Zimbabwe
-https://live-cdn.tsports.com/live-01/index.m3u8
-http://103.151.60.214:7444/1101/video.m3u8
-http://103.151.60.214:7444/1102/video.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://media.premiumtimesng.com/wp-content/files/2018/11/uefa-champions-league-rebranding-2018-2021-7.jpg" group-title="UCL", UCL 1
-https://pubads.g.doubleclick.net/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8
-#EXTINF:-1 tvg-logo="https://media.premiumtimesng.com/wp-content/files/2018/11/uefa-champions-league-rebranding-2018-2021-7.jpg" group-title="UCL", UCL 2
-https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8
-
-
-#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="CRI: SONY TEN 1 HD" tvg-logo="https://i.ytimg.com/vi/QOx79orcb1I/maxresdefault.jpg" group-title="CRICKET",SONY TEN 2 HD
-https://fifabd9-fun-tho5.spidy.online/LIV/play.m3u8?id=V9h-iyOxRiGp41ppQScDSQ&q=4
-http://livetvbox.live:8080/live/T20C227070225533/202210886677/192.ts
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=156010&extension=ts
+#EXTINF:-1 group-title="SVIP MLS Messi",ES: MLS MESSI
+http://907926949725585364.ofsd5513.xyz:80/play/vi918712/qGY85y4GAQ/585364.ts
+#EXTINF:-1 group-title="SVIP MLS Messi",ES: MLS MESSI Pro
+http://907926949725585369.ofsd5513.xyz:80/play/vi918712/qGY85y4GAQ/585369.ts
+#EXTINF:-1 group-title="SVIP UEFA TV",UEFA EVENT 1
+http://907926949725663334.ofsd5513.xyz:80/play/vi918712/qGY85y4GAQ/663334.ts
+#EXTINF:-1 group-title="SVIP UEFA TV",UEFA EVENT 2
+http://907926949725663335.ofsd5513.xyz:80/play/vi918712/qGY85y4GAQ/663335.ts
+#EXTINF:-1 group-title="SVIP UEFA TV",UEFA EVENT 3
+http://907926949725663336.ofsd5513.xyz:80/play/vi918712/qGY85y4GAQ/663336.ts
+#EXTINF:-1 group-title="SVIP UEFA TV",UEFA EVENT 4
+http://907926949725663337.ofsd5513.xyz:80/play/vi918712/qGY85y4GAQ/663337.ts
+#EXTINF:-1 group-title="SVIP UEFA TV",UEFA EVENT 5
+http://907926949725663338.ofsd5513.xyz:80/play/vi918712/qGY85y4GAQ/663338.ts
+#EXTINF:-1 group-title="SVIP UEFA TV",UEFA EVENT 6
+http://907926949725663339.ofsd5513.xyz:80/play/vi918712/qGY85y4GAQ/663339.ts
+#EXTINF:-1 group-title="SVIP UEFA TV",UEFA EVENT 7
+http://907926949725663340.ofsd5513.xyz:80/play/vi918712/qGY85y4GAQ/663340.ts
 
 
-
-#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="CRI: SONY TEN 1 HD" tvg-logo="https://i.ytimg.com/vi/QOx79orcb1I/maxresdefault.jpg" group-title="CRICKET",SONY TEN 1 HD
-https://fifabd9-fun-tho5.spidy.online/LIV/play.m3u8?id=wG75n5U8RrOKiFzaWObXbA&q=4
-http://livetvbox.live:8080/live/T20C227070225533/202210886677/154.ts
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=156017&extension=ts
-
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://w7.pngwing.com/pngs/214/781/png-transparent-star-sports-sony-ten-star-india-television-channel-others-miscellaneous-television-text.png" group-title="CRICKET",Star Sports 1 HINDI
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=282674&extension=ts
-http://41.205.93.154/STARSPORTS1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpp69gsQwJYuDspe-650YnMewqMxf1vff7OtChwYqXPg&s"group-title="IPL2024" group-title="CRICKET",Astro Cricket
-https://freeiptv25.netlify.app/live/bdix/app/ASPCRI.m3u8
-http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=315181&extension=ts
-
-#EXTINF:-1 group-title="CRICKET" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoMMKiaUjHfkMQ60uK0ns-6fMmtF9dKIozqKOC9nDt4g&s",SuperSPORT SCRICKET
-http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=1104669&extension=ts
-https://tgaadi-web.tech/b1g.php?tv=52064
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mnAYZiQ.png" group-title="Football", Sky Sports Main Event
-http://livetvbox.live:8080/live/T20C227070225533/202210886677/122409.ts
-https://epg.pw/stream/40ad3049d0aa76b6b54476bb20a19c0d715c2f09aa745b955229531c0afb8fb9.ctv
-https://7pal.short.gy/SkSpMainE
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458658&extension=m3u8
+#EXTINF:-1  group-title="LALIGA", Sports 18 HD
+http://tv.cloudcdn.me:80/live.ts?channelId=102479&uid=12597&deviceMac=00:1A:79:AB:DF:7F
+#EXTINF:-1  group-title="LALIGA", LALIGA TV
+http://907926949725165385.ofsd5513.xyz:80/play/vi918712/qGY85y4GAQ/165385.ts
+http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/175768.ts
+#EXTINF:-1  group-title="LALIGA", DAZN LALIGA
+http://907926949725320782.ofsd5513.xyz:80/play/vi918712/qGY85y4GAQ/320782.ts
+http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/205273.ts
+#EXTINF:-1  group-title="LALIGA", Super Sports Laliga
+http://homeip.biz/UK_LaligatvUK/mpegts?token=c21f071c4d06833c3f552325d2fece85
+http://homeip.biz/AF_SUP1/mpegts?token=e02f6f2da67916429e8a82851775daa4
+http://homeip.biz/UK_LaligatvUK/mpegts?token=7bec24845a9107110b374a91e55da83f
+#EXTINF:-1  group-title="EPL/UCL", Super Sports PL
+http://homeip.biz/AF_SuP3/index.m3u8?token=e1f936f7ef1e7d59639f70b353803957
+http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/530504.ts
+#EXTINF:-1  group-title="LALIGA", Premier Sports 1
+http://homeip.biz/UKPREM1/index.m3u8?token=194b08ea1ac873c3baed1b3c5075138f
+http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/175878.ts
+http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/240510.ts
 
 
+#EXTINF:-1  group-title="EPL", Sky Sports PL
+http://homeip.biz/sp_teamb/index.m3u8?token=abb3e23db775fff5d47e38f820543a11
+http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/175535.ts
+http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/175860.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=286&uid=12597&deviceMac=00:1A:79:AB:DF:7F
+http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/463603.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dUAIbXN.png" group-title="Football", SkySPORTS_PremierLeague-FHD
-https://7pal.short.gy/sSPORTSpl
-https://7pal.short.gy/skyspt8nz
-https://epg.pw/stream/4a76d9e59eec10d4d59d4a7f31f30f23dd64ce786472c57b3c54eae0ebe83673.ctv
-https://epg.pw/stream/914f41631914b771b6a4aa2ef160d9af99dbe650199e373b9c7937f1de400dda.ctv
-http://livetvbox.live:8080/live/T20C227070225533/202210886677/122410.ts
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458669&extension=m3u8
+#EXTINF:-1  group-title="EPL", Sky Sports ME
+http://homeip.biz/TM/index.m3u8?token=de89b4905ae184e57bfee56f5cd8ad36
+http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/175578.ts
+http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/64125.ts
+#EXTINF:-1  group-title="EPL", USA Network
+http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/441834.ts
+http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/403189.ts
+#EXTINF:-1  group-title="EPL", HUB Sport 1
+http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/430246.ts
+#EXTINF:-1  group-title="EPL", HUB Sport 2
+http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/430247.ts
 
+#EXTINF:-1  group-title="UCL/UEL", Sony Ten 1
+http://homeip.biz/SPTEN1HD/index.m3u8?token=b913b2796bf9de32b86a15f4102142f3
+#EXTINF:-1  group-title="UCL/UEL", Sony Ten 2
+http://homeip.biz/IN_SNT2/index.m3u8?token=6d23412dfc17f9f84404daff9db1c760
 
-
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="Sky Sports Cricket (4K)" tvg-logo="https://h.top4top.io/p_247357nqz1.png" group-title="CRICKET", Sky Sports Cricket
-http://livetvbox.live:8080/live/T20C227070225533/202210886677/122412.ts
-http://livetvbox.live:8080/live/T20C227070225533/202210886677/148679.ts
-http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=1104668&extension=ts
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="FOOTBALL",TNT SPORTS 1 HD
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458654&extension=m3u8
-http://livetvbox.live:8080/live/T20C227070225533/202210886677/148561.ts
-https://7pal.short.gy/tntspts1
-
-
-#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="FOOTBALL", TNT SPORT 2
-http://livetvbox.live:8080/live/T20C227070225533/202210886677/285.ts
-http://livetvbox.live:8080/live/T20C227070225533/202210886677/148560.ts
-https://7pal.short.gy/tntspts2
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458653&extension=m3u8
-
-
-#EXTINF:-1 tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="CRICKET",CRI: TNTSPORTS 3 FHD
-http://livetvbox.live:8080/live/T20C227070225533/202210886677/148090.ts
-http://livetvbox.live:8080/live/T20C227070225533/202210886677/148559.ts
-https://7pal.short.gy/tntspts3
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458652&extension=m3u8
+#EXTINF:-1  group-title="UCL/UEL", TNT Sports 1
+http://homeip.biz/IN_TN1/index.m3u8?token=df39bef6e01080879343941571be8a54
+http://907926949725306387.ofsd5513.xyz:80/play/vi918712/qGY85y4GAQ/306387.ts
+http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/175812.ts
+#EXTINF:-1  group-title="UCL/UEL", TNT Sports 2
+http://homeip.biz/IN_TN2/index.m3u8?token=f3442880b4561a3d42ac102e320d8815
+http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/175828.ts
+#EXTINF:-1  group-title="UCL/UEL", CBC Sports
+http://homeip.biz/US_CBSS/index.m3u8?token=a7e93c2208302914d52e139fe9a4b15a
+http://homeip.biz/US_CBSS/index.m3u8?token=def6a8a16fd21fbeb843bf0ddd42fe52
+http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/184933.ts
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YqTCkGk.png" group-title="FOOTBALL", PremierSPORTS1-FHD
-https://7pal.short.gy/prsport1
-http://livetvbox.live:8080/live/T20C227070225533/202210886677/5029.ts
-https://tgaadi-web.tech/b1g.php?tv=13840
+#EXTINF:-1  group-title="CRICKET", Astro Cricket
+http://tv.cloudcdn.me:80/live.ts?channelId=26034&uid=12597&deviceMac=00:1A:79:AB:DF:7F
+http://homeip.biz/Cr_AS/index.m3u8?token=f82634a3d6f6a4f69568b29c7c5a766a
+http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/558678.ts
+#EXTINF:-1  group-title="CRICKET", Super Sports Cricket
+http://homeip.biz/AF_S_CR/index.m3u8?token=3c97457711a3fa678d7b4c0a0cc97f5d
+http://homeip.biz/AF_S_CR/index.m3u8?token=0cfbdd1003e9c651191f8df420e85026
+#EXTINF:-1  group-title="CRICKET", Ten Sports
+http://homeip.biz/PK_Ten/index.m3u8?token=cfefb9efc284b6c8f2fce84e9a01ac71
+#EXTINF:-1  group-title="CRICKET", Star Sports
+http://homeip.biz/IN_FCRCBago/index.m3u8?token=09a0b9493db1a92084eeae19916708cf
+#EXTINF:-1  group-title="CRICKET", FOX Sports
+http://homeip.biz/F_Cr_501_Team/index.m3u8?token=8cf7657ed32fc7ef813bf988b71a325f
+#EXTINF:-1  group-title="CRICKET", A Sports 
+http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/451139.ts
+
+#EXTINF:-1  group-title="CRICKET", Sky Sports Cricket
+http://homeip.biz/team_Cc/index.m3u8?token=0ed3e6b5fae3d432530d53affa54d0d9
+http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/177629.ts
+#EXTINF:-1  group-title="CRICKET", Star Sports Select 2
+http://homeip.biz/IND_SL2/index.m3u8?token=ff1810eca54f7e2bf0097791df002795
+http://homeip.biz/AF_S2/index.m3u8?token=849f662348c8a9fdef9e1463288c45ae
+#EXTINF:-1  group-title="CRICKET", TSports
+http://homeip.biz/GaziTV/index.m3u8?token=92cefe6c01666f853e5923ebefac37dd
+#EXTINF:-1  group-title="CRICKET", Willon Cricket
+http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/451474.ts
 
 
-#EXTINF:-1 tvg-id="Premier.SPORTS.2.HD.ie" tvg-logo="https://i.imgur.com/RenHhOi.png" group-title="FOOTBALL", PremierSPORTS2-FHD
-https://7pal.short.gy/prsport2
-http://livetvbox.live:8080/live/T20C227070225533/202210886677/5030.ts
-https://tgaadi-web.tech/b1g.php?tv=11972
+#EXTINF:-1  group-title="Arabic", Bein Sport 1
+http://homeip.biz/AR_BE1UHD/index.m3u8?token=63df42d9f1040faae401b55d584b4fce
+http://homeip.biz/AR_E1/index.m3u8?token=589e461b0dfa089dd88fb819c72437a6
+http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/558669.ts
+http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/593088.ts
+http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/176880.ts
 
+#EXTINF:-1  group-title="Arabic", Bein Sport 2
+http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/558670.ts
+http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/184944.ts
+#EXTINF:-1  group-title="Arabic", Bein Sport 3
+http://homeip.biz/US_LIGA/mpegts?token=bd50e7330cbde0b92d5a1b0fe11b9bf5
+http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/558671.ts
+http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/184929.ts
 
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png" group-title="FOOTBALL", HubPremier1-FHD
-https://7pal.short.gy/HPremier1
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png" group-title="FOOTBALL", HubPremier2-FHD
-https://7pal.short.gy/HPremier2
-https://7pal.short.gy/HubP2uhd
+#EXTINF:-1  group-title="Arabic", SSC 1
+http://homeip.biz/KSA_SSC1/index.m3u8?token=952aad31af2bec2dc2b0e07fe2378a54
+#EXTINF:-1  group-title="Arabic", SSC 3
+http://homeip.biz/KSA_SSC3/index.m3u8?token=33985345d37afa9acf77abb836c4b394
+#EXTINF:-1  group-title="Arabic", SSC 5
+http://homeip.biz/KSA_SSC2/mpegts?token=cf61d2cbc9264d884d7fc8051afe0895
 
+#EXTINF:-1  group-title="Arabic", SSC Extra
+http://homeip.biz/KSA_SSC6/index.m3u8?token=37ea714c465bfa36e4e892f8dec00fe1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORTS", Astro_Supersport1_MY-FHD
-https://7pal.short.gy/astross1
-https://7pal.short.gy/astrouhd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="SPORTS", Astro_Supersport2_MY-FHD
-https://7pal.short.gy/astross2
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="SPORTS", Astro_Supersport3_MY-FHD
-https://7pal.short.gy/astross3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="SPORTS", Astro_Supersport4_MY-FHD
-https://7pal.short.gy/astross4
-
-#EXTINF:-1 tvg-logo="https://images.supersport.com/media/yvuloxza/premier-league-1.png" group-title="FOOTBALL", Supersport_Premier_League-FHD
-https://7pal.short.gy/spersppl
-https://tgaadi-web.tech/b1g.php?tv=52059
-
-#EXTINF:-1 tvg-logo="https://images.supersport.com/media/wx5prn11/FOOTBALL-6.png" group-title="FOOTBALL", Supersport_FOOTBALL-FHD
-https://7pal.short.gy/sperspfb
-#EXTINF:-1 tvg-logo="https://images.supersport.com/media/ngsfbrab/laliga.png" group-title="FOOTBALL", Supersport_Laliga-FHD
-https://7pal.short.gy/sperspllg
-http://livetvbox.live:8080/live/T20C227070225533/202210886677/157941.ts
-http://livetvbox.live:8080/live/T20C227070225533/202210886677/768.ts
-https://7pal.short.gy/mplusuhd
-https://tgaadi-web.tech/b1g.php?tv=5629
-
-
-
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="SPORTS", NowSPORTS_PremierLeague1-FHD
-https://7pal.short.gy/nowhkp1
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/622-wbg-e.png" group-title="SPORTS", NowSPORTS_PremierLeague2-FHD
-https://7pal.short.gy/nowhkp2
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/623-wbg-e.png" group-title="SPORTS", NowSPORTS_PremierLeague3-FHD
-https://7pal.short.gy/nowhkp3
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Nq4lPP4.png" group-title="SPORTS", WWE_Network
-https://7pal.short.gy/wwenw
-http://livetvbox.live:8080/live/T20C227070225533/202210886677/711.ts
-http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=175006&extension=ts
+#EXTINF:-1  group-title="WWE", WWE HD
+http://homeip.biz/AR_WE/mpegts?token=6d6bf0163e86aabd66d3a98b389978ec
+http://homeip.biz/USA_WWEHD/mpegts?token=23c6bc6e994a9faadc41f6307d7be3e8
+http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/185027.ts
+http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/419566.ts

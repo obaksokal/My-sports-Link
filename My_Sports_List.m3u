@@ -24,6 +24,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=102479&uid=12597&deviceMac=00:1A:79:A
 #EXTINF:-1  group-title="LALIGA", LALIGA TV
 http://907926949725165385.ofsd5513.xyz:80/play/vi918712/qGY85y4GAQ/165385.ts
 http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/175768.ts
+http://b1g.uk:80/live/116048/116048/22153.ts
 #EXTINF:-1  group-title="LALIGA", DAZN LALIGA
 http://907926949725320782.ofsd5513.xyz:80/play/vi918712/qGY85y4GAQ/320782.ts
 http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/205273.ts
@@ -38,6 +39,7 @@ http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/530504.ts
 http://homeip.biz/UKPREM1/index.m3u8?token=194b08ea1ac873c3baed1b3c5075138f
 http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/175878.ts
 http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/240510.ts
+http://b1g.uk:80/live/116048/116048/13840.ts
 
 
 #EXTINF:-1  group-title="EPL", Sky Sports PL
@@ -46,14 +48,18 @@ http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/175535.ts
 http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/175860.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=286&uid=12597&deviceMac=00:1A:79:AB:DF:7F
 http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/463603.ts
+http://b1g.uk:80/live/116048/116048/35797.ts
+http://b1g.uk:80/live/116048/116048/20171.ts
 
 #EXTINF:-1  group-title="EPL", Sky Sports ME
 http://homeip.biz/TM/index.m3u8?token=de89b4905ae184e57bfee56f5cd8ad36
 http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/175578.ts
 http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/64125.ts
+http://b1g.uk:80/live/116048/116048/20172.ts
 #EXTINF:-1  group-title="EPL", USA Network
 http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/441834.ts
 http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/403189.ts
+http://b1g.uk:80/live/116048/116048/405294.ts
 #EXTINF:-1  group-title="EPL", HUB Sport 1
 http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/430246.ts
 #EXTINF:-1  group-title="EPL", HUB Sport 2
@@ -68,9 +74,13 @@ http://homeip.biz/IN_SNT2/index.m3u8?token=6d23412dfc17f9f84404daff9db1c760
 http://homeip.biz/IN_TN1/index.m3u8?token=df39bef6e01080879343941571be8a54
 http://907926949725306387.ofsd5513.xyz:80/play/vi918712/qGY85y4GAQ/306387.ts
 http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/175812.ts
+http://b1g.uk:80/live/116048/116048/697057.ts
+http://b1g.uk:80/live/116048/116048/697054.ts
 #EXTINF:-1  group-title="UCL/UEL", TNT Sports 2
 http://homeip.biz/IN_TN2/index.m3u8?token=f3442880b4561a3d42ac102e320d8815
 http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/175828.ts
+http://b1g.uk:80/live/116048/116048/697053.ts
+
 #EXTINF:-1  group-title="UCL/UEL", CBC Sports
 http://homeip.biz/US_CBSS/index.m3u8?token=a7e93c2208302914d52e139fe9a4b15a
 http://homeip.biz/US_CBSS/index.m3u8?token=def6a8a16fd21fbeb843bf0ddd42fe52
@@ -98,6 +108,7 @@ http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/451139.ts
 #EXTINF:-1  group-title="CRICKET", Sky Sports Cricket
 http://homeip.biz/team_Cc/index.m3u8?token=0ed3e6b5fae3d432530d53affa54d0d9
 http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/177629.ts
+http://b1g.uk:80/live/116048/116048/35799.ts
 #EXTINF:-1  group-title="CRICKET", Star Sports Select 2
 http://homeip.biz/IND_SL2/index.m3u8?token=ff1810eca54f7e2bf0097791df002795
 http://homeip.biz/AF_S2/index.m3u8?token=849f662348c8a9fdef9e1463288c45ae

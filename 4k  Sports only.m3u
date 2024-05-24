@@ -28,6 +28,8 @@ http://magonlyx.abcott.me:80/play/live.php?mac=00:1a:79:c1:49:ac&stream=1470619&
 http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:53:0C:CB&stream=569043&extension=ts&play_token=TW64sV2NQK
 #EXTINF:-1 tvg-id="Hub.Premier.2.(HD).sg" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="HUB/EPL",HUBPremier2UHD
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:c1:73:6c&stream=1470619&extension=ts&play_token=5V3tDHOIg7
+#EXTINF:-1 tvg-id="Hub.Premier.2.(HD).sg" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="HUB/EPL",HUBPremier2UHD
+http://b1g.uk:80/live/116048/116048/174943.ts
 
 #EXTINF:-1 tvg-id="HubPremier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png" group-title="HUB/EPL", HubPremier1-FHD
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:07:E7:41&stream=1032529&extension=ts&play_token=t3qvZOGBPY

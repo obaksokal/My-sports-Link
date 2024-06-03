@@ -26,6 +26,60 @@ http://xtv.ooo:8080/vipsubscription685/2272200/220064
 http://xtv.ooo:8080/vipsubscription685/2272200/220065
 
 
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="Zubayer Op",Germany vs Ukraine
+https://a2uy.short.gy/GER-V-UKR/Join-@HimelOP_Official/Zubayer-Op.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Zubayer Op",England vs Bosnia
+https://a2uy.short.gy/ENG-V-BOS/Join-@HimelOP_Official/Zubayer-Op.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Zubayer Op",Albania vs Liechtenstein
+https://a2uy.short.gy/ALB-V-LIE/Join-@HimelOP_Official/Zubayer-Op.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.slivcdn.com/videoasset_images/uefa_if2024_croatia_vs_north_macedonia_landscape_thumb.jpg?tr=c_fill&h=1080&q=high" group-title="Zubayer Op",Croatia vs North Macedonia 
+https://dai.google.com/ssai/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Zubayer Op",GIB V SCO
+https://a2uy.short.gy/GIB-V-SCO/Join-@HimelOP_Official/Zubayer-Op.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300097/logo/240x240/mobile_logo_963886001717054413.png" group-title="Zubayer Op",Toffee EN Only Ns Player 
+https://the-nayeemparvez.xyz/tffe/live.m3u8?id=match-1
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_191263001717126123.png" group-title="Zubayer Op",Toffee BN Only Ns Player
+https://the-nayeemparvez.xyz/tffe/live.m3u8?id=match-2
+
+#EXTINF:-1 tvg-logo="" group-title="Zubayer Op",Super Sport Cricket 
+http://public.iptv18.tech/smart.php?id=12167
+
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:Star_Sports_Network.png" group-title="Zubayer Op",Star Sports 1 HD
+http://public.iptv18.tech/smart.php?id=12148
+
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:Star_Sports_Network.png" group-title="Zubayer Op",Star Sports 1 Hindi HD
+http://public.iptv18.tech/smart.php?id=12149
+
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:Willow_Cricket.PNG" group-title="Zubayer Op",Willow Cricket HD
+http://public.iptv18.tech/smart.php?id=10516
+
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:Willow_Cricket.PNG" group-title="Zubayer Op",Willow Cricket FHD
+http://public.iptv18.tech/smart.php?id=2084
+
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/900/1507600280/1134.png" group-title="Zubayer Op",Sky Cricket HD
+http://public.iptv18.tech/push.php?id=5770
+
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/900/1507600280/1134.png" group-title="Zubayer Op",Sky Cricket FHD
+http://public.iptv18.tech/push.php?id=23946
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png?20240205190515" group-title="Zubayer Op",Astro Cricket 
+http://public.iptv18.tech/smart.php?id=12141
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="Zubayer Op",Fox Cricket HD
+http://public.iptv18.tech/push.php?id=24016
+
+#EXTINF:-1 tvg-logo="" group-title="Zubayer Op",Star Sports 1 HD 2
+http://public.iptv18.tech/push.php?id=22149
+
+
 
 
 

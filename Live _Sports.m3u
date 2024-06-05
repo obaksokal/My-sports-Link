@@ -2,33 +2,6 @@
 
 ### WT20 ###
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ICC%20Mens%20t20%20World%20Cup%202024.jpg" group-title="T20 WC",T Sports HD
-http://starshare.live:8080/live/007/007/130714.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ICC%20Mens%20t20%20World%20Cup%202024.jpg" group-title="T20 WC",Star Sports 1 HD
-http://starshare.live:8080/live/007/007/98864.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ICC%20Mens%20t20%20World%20Cup%202024.jpg" group-title="T20 WC",Ten Sports PK
-http://starshare.live:8080/live/007/007/98.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SERVER 1" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ICC%20Mens%20t20%20World%20Cup%202024.jpg" group-title="T20 WC",SERVER 1
-http://xtv.ooo:8080/vipsubscription685/2272200/220059
-#EXTINF:-1 tvg-id="" tvg-name="SERVER 2" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ICC%20Mens%20t20%20World%20Cup%202024.jpg" group-title="T20 WC",SERVER 2
-http://xtv.ooo:8080/vipsubscription685/2272200/220060
-#EXTINF:-1 tvg-id="" tvg-name="SERVER 3" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ICC%20Mens%20t20%20World%20Cup%202024.jpg" group-title="T20 WC",SERVER 3
-http://xtv.ooo:8080/vipsubscription685/2272200/220061
-#EXTINF:-1 tvg-id="" tvg-name="SERVER 4" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ICC%20Mens%20t20%20World%20Cup%202024.jpg" group-title="T20 WC",SERVER 4
-http://xtv.ooo:8080/vipsubscription685/2272200/220062
-#EXTINF:-1 tvg-id="" tvg-name="SERVER 5" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ICC%20Mens%20t20%20World%20Cup%202024.jpg" group-title="T20 WC",SERVER 5
-http://xtv.ooo:8080/vipsubscription685/2272200/220063
-#EXTINF:-1 tvg-id="" tvg-name="SERVER 6" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ICC%20Mens%20t20%20World%20Cup%202024.jpg" group-title="T20 WC",SERVER 6
-http://xtv.ooo:8080/vipsubscription685/2272200/220064
-#EXTINF:-1 tvg-id="" tvg-name="SERVER 7" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ICC%20Mens%20t20%20World%20Cup%202024.jpg" group-title="T20 WC",SERVER 7
-http://xtv.ooo:8080/vipsubscription685/2272200/220065
-
-
-#Zubayer_Op
-
-
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300097/logo/240x240/mobile_logo_963886001717054413.png" group-title="Zubayer Op",Toffee EN Only NS Player
 https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8%7cCookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1717597485:KeyName=prod_live_events:Signature=0g2wGTWqRBcy6DlTQXd9iq2i74B-jAmKu6Dc6XZouH9zPR7zxlHhVYhdyOayW9PPLAW0fqnG2v2zdp4SfEHpBQ
 
@@ -82,6 +55,36 @@ https://vkvsd67.mycdn.me/hls/6582228814441.m3u8/sig/bboJCW1QUyI/srcIp/103.61.224
 
 #EXTINF:-1 tvg-logo="" group-title="Zubayer Op",Hotstar Bangla 
 https://vkvsd74.mycdn.me/hls/6591238965865.m3u8/sig/4vp9wqeVb5M/srcIp/103.61.224.59/urls/185.226.52.54/expires/1718053622199/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7141849181033/id/6591238965865/video.m3u8?p
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ICC%20Mens%20t20%20World%20Cup%202024.jpg" group-title="T20 WC",T Sports HD
+http://starshare.live:8080/live/007/007/130714.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ICC%20Mens%20t20%20World%20Cup%202024.jpg" group-title="T20 WC",Star Sports 1 HD
+http://starshare.live:8080/live/007/007/98864.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ICC%20Mens%20t20%20World%20Cup%202024.jpg" group-title="T20 WC",Ten Sports PK
+http://starshare.live:8080/live/007/007/98.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SERVER 1" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ICC%20Mens%20t20%20World%20Cup%202024.jpg" group-title="T20 WC",SERVER 1
+http://xtv.ooo:8080/vipsubscription685/2272200/220059
+#EXTINF:-1 tvg-id="" tvg-name="SERVER 2" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ICC%20Mens%20t20%20World%20Cup%202024.jpg" group-title="T20 WC",SERVER 2
+http://xtv.ooo:8080/vipsubscription685/2272200/220060
+#EXTINF:-1 tvg-id="" tvg-name="SERVER 3" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ICC%20Mens%20t20%20World%20Cup%202024.jpg" group-title="T20 WC",SERVER 3
+http://xtv.ooo:8080/vipsubscription685/2272200/220061
+#EXTINF:-1 tvg-id="" tvg-name="SERVER 4" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ICC%20Mens%20t20%20World%20Cup%202024.jpg" group-title="T20 WC",SERVER 4
+http://xtv.ooo:8080/vipsubscription685/2272200/220062
+#EXTINF:-1 tvg-id="" tvg-name="SERVER 5" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ICC%20Mens%20t20%20World%20Cup%202024.jpg" group-title="T20 WC",SERVER 5
+http://xtv.ooo:8080/vipsubscription685/2272200/220063
+#EXTINF:-1 tvg-id="" tvg-name="SERVER 6" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ICC%20Mens%20t20%20World%20Cup%202024.jpg" group-title="T20 WC",SERVER 6
+http://xtv.ooo:8080/vipsubscription685/2272200/220064
+#EXTINF:-1 tvg-id="" tvg-name="SERVER 7" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ICC%20Mens%20t20%20World%20Cup%202024.jpg" group-title="T20 WC",SERVER 7
+http://xtv.ooo:8080/vipsubscription685/2272200/220065
+
+
+#Zubayer_Op
+
+
+
 
 
 

@@ -27,28 +27,31 @@ http://xtv.ooo:8080/vipsubscription685/2272200/220065
 
 
 #Zubayer_Op
-
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300097/logo/240x240/mobile_logo_963886001717054413.png" group-title="Zubayer Op",Toffee EN Only Ns Player 
-https://the-nayeemparvez.xyz/tffe/live.m3u8?id=match-1
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_191263001717126123.png" group-title="Zubayer Op",Toffee BN Only Ns Player
-https://the-nayeemparvez.xyz/tffe/live.m3u8?id=match-2
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300097/logo/240x240/mobile_logo_963886001717054413.png" group-title="Zubayer Op",Toffee EN Only NS Player
+https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8%7cCookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1717597485:KeyName=prod_live_events:Signature=0g2wGTWqRBcy6DlTQXd9iq2i74B-jAmKu6Dc6XZouH9zPR7zxlHhVYhdyOayW9PPLAW0fqnG2v2zdp4SfEHpBQ
 
-#EXTINF:-1 tvg-logo="" group-title="Zubayer Op",Super Sport Cricket 
-http://public.iptv18.tech/smart.php?id=12167
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_191263001717126123.png" group-title="Zubayer Op",Toffee BN Only NS Player 
+https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8%7cCookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1717597312:KeyName=prod_live_events:Signature=yxd2Hx8jPEt4_2Un8m0WbfEbOhZz43mFgqRYMfzOBiOidcQPgF-7qn6_hNh0NQc0DefbJLeUG3yi0x1-hUUJCg
 
-#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:Star_Sports_Network.png" group-title="Zubayer Op",Star Sports 1 HD
-http://public.iptv18.tech/smart.php?id=12148
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300099/logo/240x240/mobile_logo_332351001717400403.png" group-title="Zubayer Op",Toffee EN 2 Only Ns Player 
+https://mprod-cdn.toffeelive.com/live/match-3/index.m3u8%7cCookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1717553156:KeyName=prod_live_events:Signature=uwvCS4vZ_S3qF82r2vuJQWhC5wcuHtUn4pysy-Ot4EC2goe5vZb3U2FRCwNhBeqkd8mGQO6Kbexi5qCQcc2nBA
 
-#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:Star_Sports_Network.png" group-title="Zubayer Op",Star Sports 1 Hindi HD
-http://public.iptv18.tech/smart.php?id=12149
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png" group-title="Zubayer Op",Super Sport Cricket 
+http://public.iptv18.tech/push.php?id=23949
 
-#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:Willow_Cricket.PNG" group-title="Zubayer Op",Willow Cricket HD
-http://public.iptv18.tech/smart.php?id=10516
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Star_Sports_Network.png/440px-Star_Sports_Network.png" group-title="Zubayer Op",Star Sports 1 HD
+http://public.iptv18.tech/push.php?id=22149
 
-#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:Willow_Cricket.PNG" group-title="Zubayer Op",Willow Cricket FHD
-http://public.iptv18.tech/smart.php?id=2084
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Star_Sports_Network.png/440px-Star_Sports_Network.png" group-title="Zubayer Op",Star Sports 1 Hindi HD
+http://public.iptv18.tech/tata.php?id=12149
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Willow_Cricket.PNG" group-title="Zubayer Op",Willow Cricket HD
+http://public.iptv18.tech/tata.php?id=12169
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Willow_Cricket.PNG" group-title="Zubayer Op",Willow Cricket FHD
+http://port.denver1769.in/j.php?tv=355
 
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/900/1507600280/1134.png" group-title="Zubayer Op",Sky Cricket HD
 http://public.iptv18.tech/push.php?id=5770
@@ -57,13 +60,28 @@ http://public.iptv18.tech/push.php?id=5770
 http://public.iptv18.tech/push.php?id=23946
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png?20240205190515" group-title="Zubayer Op",Astro Cricket 
-http://public.iptv18.tech/smart.php?id=12141
+http://public.iptv18.tech/push.php?id=18458
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="Zubayer Op",Fox Cricket HD
 http://public.iptv18.tech/push.php?id=24016
 
-#EXTINF:-1 tvg-logo="" group-title="Zubayer Op",Star Sports 1 HD 2
-http://public.iptv18.tech/push.php?id=22149
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Star_Sports_Network.png/440px-Star_Sports_Network.png" group-title="Zubayer Op",Star Sports 1 HD 2
+http://public.iptv18.tech/tata.php?id=12148
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Star_Sports_Network.png/440px-Star_Sports_Network.png" group-title="Zubayer Op",Star Sports 2 HD
+http://public.iptv18.tech/push.php?id=7458
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Willow_Cricket.PNG" group-title="Zubayer Op",Willow Extra FHD
+http://public.iptv18.tech/push.php?id=22153
+
+#EXTINF:-1 tvg-logo="" group-title="Zubayer Op",Hotstar English 
+https://vkvsd67.mycdn.me/hls/6582228814441.m3u8/sig/bboJCW1QUyI/srcIp/103.61.224.59/urls/185.226.52.95/expires/1717845404715/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7136451046249/id/6582228814441/video.m3u8?p
+
+#EXTINF:-1 tvg-logo="" group-title="Zubayer Op",Hotstar Hindi
+https://vkvsd67.mycdn.me/hls/6582228814441.m3u8/sig/bboJCW1QUyI/srcIp/103.61.224.59/urls/185.226.52.95/expires/1717845404715/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7136451046249/id/6582228814441/video.m3u8?p
+
+#EXTINF:-1 tvg-logo="" group-title="Zubayer Op",Hotstar Bangla 
+https://vkvsd74.mycdn.me/hls/6591238965865.m3u8/sig/4vp9wqeVb5M/srcIp/103.61.224.59/urls/185.226.52.54/expires/1718053622199/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7141849181033/id/6591238965865/video.m3u8?p
 
 
 

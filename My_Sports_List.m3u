@@ -1,4 +1,48 @@
 #EXTM3U
+####EURO 2024####
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/" group-title="EURO 2024",TEN 1 . 
+http://public.iptv18.tech/push.php?id=23816
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/373.jpg" group-title="EURO 2024",TEN 1 HD 
+http://public.iptv18.tech/push.php?id=403
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/382.jpg" group-title="EURO 2024",TEN 1 
+http://public.iptv18.tech/push.php?id=412
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/" group-title="EURO 2024",TEN 2 . 
+http://public.iptv18.tech/push.php?id=23817
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/374.jpg" group-title="EURO 2024",TEN 2 HD 
+http://public.iptv18.tech/push.php?id=404
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/383.jpg" group-title="EURO 2024",TEN 2 
+http://public.iptv18.tech/push.php?id=413
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/" group-title="EURO 2024",TEN 3 . 
+http://public.iptv18.tech/push.php?id=23818
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/375.jpg" group-title="EURO 2024",TEN 3 HD 
+http://public.iptv18.tech/push.php?id=405
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/384.jpg" group-title="EURO 2024",TEN 3 
+http://public.iptv18.tech/push.php?id=415
+#EXTINF:-1 tvg-id="sonyten4hd.in" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/" group-title="EURO 2024",TEN 4 
+http://public.iptv18.tech/push.php?id=23819
+
+
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/397.jpg" group-title="EURO 2024",BT SPORTS 1 HD 
+http://public.iptv18.tech/push.php?id=428
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/" group-title="EURO 2024",BT SPORT 1 
+http://public.iptv18.tech/push.php?id=19935
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/398.jpg" group-title="EURO 2024",BT SPORTS 2 HD 
+http://public.iptv18.tech/push.php?id=429
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/" group-title="EURO 2024",BT SPORT 2 
+http://public.iptv18.tech/push.php?id=19939
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/399.jpg" group-title="EURO 2024",BT SPORTS 3 HD 
+http://public.iptv18.tech/push.php?id=430
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/" group-title="EURO 2024",BT SPORT 3 
+http://public.iptv18.tech/push.php?id=19943
+#EXTINF:-1 tvg-id="btsport4.uk" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/405.jpg" group-title="EURO 2024",BT SPORTS 4 HD 
+http://public.iptv18.tech/push.php?id=436
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="SVIP MLS Messi",ES: MLS MESSI
 http://907926949725585364.ofsd5513.xyz:80/play/vi918712/qGY85y4GAQ/585364.ts
 #EXTINF:-1 group-title="SVIP MLS Messi",ES: MLS MESSI Pro
@@ -17,6 +61,8 @@ http://907926949725663338.ofsd5513.xyz:80/play/vi918712/qGY85y4GAQ/663338.ts
 http://907926949725663339.ofsd5513.xyz:80/play/vi918712/qGY85y4GAQ/663339.ts
 #EXTINF:-1 group-title="SVIP UEFA TV",UEFA EVENT 7
 http://907926949725663340.ofsd5513.xyz:80/play/vi918712/qGY85y4GAQ/663340.ts
+
+
 
 
 #EXTINF:-1  group-title="LALIGA", Sports 18 HD
@@ -94,6 +140,66 @@ http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/184933.ts
 
 
 
+####CRICKET#####
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/" group-title="CRICKET",FOX SPORTS CRICKET 
+http://public.iptv18.tech/push.php?id=24016
+#EXTINF:-1 tvg-id="" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/" group-title="CRICKET",WILLOW CRICKET. 
+http://public.iptv18.tech/push.php?id=24017
+#EXTINF:-1 tvg-id="" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/" group-title="CRICKET",FLOW SPORT 
+http://public.iptv18.tech/push.php?id=24018
+#EXTINF:-1 tvg-id="" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/" group-title="CRICKET",SUPERSPORT CRICKET 
+http://public.iptv18.tech/push.php?id=24019
+#EXTINF:-1 tvg-id="" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/" group-title="CRICKET",STAR SPORT 1 
+http://public.iptv18.tech/push.php?id=24021
+#EXTINF:-1 tvg-id="" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/" group-title="CRICKET",STAR SPORT 1 FHD 
+http://public.iptv18.tech/push.php?id=24022
+#EXTINF:-1 tvg-id="" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/" group-title="CRICKET",STAR SPORTS 1 HINDI 
+http://public.iptv18.tech/push.php?id=24023
+#EXTINF:-1 tvg-id="" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/" group-title="CRICKET",STAR SPORTS 1 HINDI FHD 
+http://public.iptv18.tech/push.php?id=24025
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/6387.png" group-title="CRICKET",SKY SPORTS CRICKET 
+http://public.iptv18.tech/push.php?id=6787
+#EXTINF:-1 tvg-id="" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/5467.png" group-title="CRICKET",SKY SPORTS CRICKET HD. 
+http://public.iptv18.tech/push.php?id=5770
+#EXTINF:-1 tvg-id="" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/18288.png" group-title="CRICKET",ASTRO CRICKET 
+http://public.iptv18.tech/push.php?id=18458
+#EXTINF:-1 tvg-id="" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/" group-title="CRICKET",SUPER SPORT CRICKET 
+http://public.iptv18.tech/push.php?id=22144
+#EXTINF:-1 tvg-id="" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/" group-title="CRICKET",WILLOW CRICKET 
+http://public.iptv18.tech/push.php?id=22154
+
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/" group-title="CRICKET",STAR SPORTS 1. 
+http://public.iptv18.tech/push.php?id=18295
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/" group-title="CRICKET",STAR SPORTS 1 HD 
+http://public.iptv18.tech/push.php?id=22149
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/" group-title="CRICKET",STAR SPORTS 1 
+http://public.iptv18.tech/push.php?id=7473
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/" group-title="CRICKET",STAR SPORTS 2. 
+http://public.iptv18.tech/push.php?id=7455
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/" group-title="CRICKET",STAR SPORTS 2 
+http://public.iptv18.tech/push.php?id=7458
+
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/" group-title="CRICKET",STAR SPORTS SELECT 1 
+http://public.iptv18.tech/push.php?id=22145
+#EXTINF:-1 tvg-id="101starsportsselect1.in" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/366.jpg" group-title="CRICKET",STSPORTS SELECT 1 
+http://public.iptv18.tech/push.php?id=396
+#EXTINF:-1 tvg-id="starsportsselect2.in" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/" group-title="CRICKET",STAR SPORTS SELECT 2 
+http://public.iptv18.tech/push.php?id=22146
+#EXTINF:-1 tvg-id="101starsportsselect2.in" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/367.jpg" group-title="CRICKET",STAR SPORTS SELECT 2  . 
+http://public.iptv18.tech/push.php?id=397
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/" group-title="CRICKET",SKY SPORTS CRICKET FHD. 
+http://public.iptv18.tech/push.php?id=23945
+#EXTINF:-1 tvg-id="" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/" group-title="CRICKET",SKY SPORTS CRICKET (HD) 
+http://public.iptv18.tech/push.php?id=23946
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/18298.jpg" group-title="PUSH4K-CRICKET",A SPORTS HD 
+http://public.iptv18.tech/push.php?id=18468
+#EXTINF:-1 tvg-id="" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/" group-title="PUSH4K-CRICKET",A SPORTS UHD 
+http://public.iptv18.tech/push.php?id=20307
+
 
 #EXTINF:-1  group-title="CRICKET", Astro Cricket
 http://tv.cloudcdn.me:80/live.ts?channelId=26034&uid=12597&deviceMac=00:1A:79:AB:DF:7F
@@ -134,6 +240,9 @@ http://homeip.biz/GaziTV/index.m3u8?token=92cefe6c01666f853e5923ebefac37dd
 #EXTINF:-1  group-title="CRICKET", Willow Cricket
 http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/451474.ts
 http://b1g.uk:80/live/116048/116048/98525.ts
+
+
+
 
 
 #EXTINF:-1  group-title="Arabic", Bein Sport 1

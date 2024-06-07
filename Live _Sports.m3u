@@ -2,14 +2,19 @@
 
 ### WT20 ###
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300097/logo/240x240/mobile_logo_963886001717054413.png" group-title="Zubayer Op",Toffee EN Only NS Player
-https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8%7cCookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1717639742:KeyName=prod_live_events:Signature=IIEGd3Pfujqehkfw65bPiXiVPXyeW3aFjCbgMQ8bUAL_FGJ_4cw1t_83_JQwo8DRDWAgCCFNogwZ9fTLHb4XAA
+#Zubayer_Op
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_191263001717126123.png" group-title="Zubayer Op",Toffee BN Only NS Player 
-https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8%7cCookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1717639543:KeyName=prod_live_events:Signature=DljYJi3pRR2zBIvul6DQ7eUpio1EdNPY2CfJclgGmj35_lYGqVTFuMdk4_e7h_1t3Ll5HAnOfh17Axtp6IAnBw
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300097/logo/240x240/mobile_logo_963886001717054413.png" group-title="Zubayer Op",Toffee EN 
+https://is.gd/Toffee_Match1_By_Zubayer_Op.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300099/logo/240x240/mobile_logo_332351001717400403.png" group-title="Zubayer Op",Toffee EN 2 Only Ns Player 
-https://mprod-cdn.toffeelive.com/live/match-3/index.m3u8%7cCookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1717553156:KeyName=prod_live_events:Signature=uwvCS4vZ_S3qF82r2vuJQWhC5wcuHtUn4pysy-Ot4EC2goe5vZb3U2FRCwNhBeqkd8mGQO6Kbexi5qCQcc2nBA
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_191263001717126123.png" group-title="Zubayer Op",Toffee BN 
+https://is.gd/Toffee_Match1_BN_By_Zubayer_Op.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300099/logo/240x240/mobile_logo_332351001717400403.png" group-title="Zubayer Op",Toffee EN 2 
+https://is.gd/Toffee_Match2_By_Zubayer_Op.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300100/logo/240x240/mobile_logo_415428001717680117.png" group-title="Zubayer Op",Toffee BN 2 
+https://is.gd/Toffee_Match2_BN_By_Zubayer_Op.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png" group-title="Zubayer Op",Super Sport Cricket 
 http://public.iptv18.tech/push.php?id=23949
@@ -18,13 +23,13 @@ http://public.iptv18.tech/push.php?id=23949
 http://public.iptv18.tech/push.php?id=22149
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Star_Sports_Network.png/440px-Star_Sports_Network.png" group-title="Zubayer Op",Star Sports 1 Hindi HD
-http://public.iptv18.tech/tata.php?id=12149
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24542
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Willow_Cricket.PNG" group-title="Zubayer Op",Willow Cricket HD
 http://public.iptv18.tech/tata.php?id=12169
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Willow_Cricket.PNG" group-title="Zubayer Op",Willow Cricket FHD
-http://port.denver1769.in/j.php?tv=355
+http://public.iptv18.tech/push.php?id=24017
 
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/900/1507600280/1134.png" group-title="Zubayer Op",Sky Cricket HD
 http://public.iptv18.tech/push.php?id=5770
@@ -47,14 +52,11 @@ http://public.iptv18.tech/push.php?id=7458
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Willow_Cricket.PNG" group-title="Zubayer Op",Willow Extra FHD
 http://public.iptv18.tech/push.php?id=22153
 
-#EXTINF:-1 tvg-logo="" group-title="Zubayer Op",Hotstar English 
-https://vkvsd67.mycdn.me/hls/6582228814441.m3u8/sig/bboJCW1QUyI/srcIp/103.61.224.59/urls/185.226.52.95/expires/1717845404715/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7136451046249/id/6582228814441/video.m3u8?p
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Jxz6MAa3fFM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCniKESeivK0fSvwb0C3RWaJS3VBg" group-title="Zubayer Op",Ten Sports HD
+http://public.iptv18.tech/push.php?id=22158
 
-#EXTINF:-1 tvg-logo="" group-title="Zubayer Op",Hotstar Hindi
-https://vkvsd67.mycdn.me/hls/6582228814441.m3u8/sig/bboJCW1QUyI/srcIp/103.61.224.59/urls/185.226.52.95/expires/1717845404715/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7136451046249/id/6582228814441/video.m3u8?p
-
-#EXTINF:-1 tvg-logo="" group-title="Zubayer Op",Hotstar Bangla 
-https://vkvsd74.mycdn.me/hls/6591238965865.m3u8/sig/4vp9wqeVb5M/srcIp/103.61.224.59/urls/185.226.52.54/expires/1718053622199/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7141849181033/id/6591238965865/video.m3u8?p
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Zubayer Op",PTV Sports HD
+http://public.iptv18.tech/push.php?id=23935
 
 
 
@@ -79,14 +81,6 @@ http://xtv.ooo:8080/vipsubscription685/2272200/220063
 http://xtv.ooo:8080/vipsubscription685/2272200/220064
 #EXTINF:-1 tvg-id="" tvg-name="SERVER 7" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ICC%20Mens%20t20%20World%20Cup%202024.jpg" group-title="T20 WC",SERVER 7
 http://xtv.ooo:8080/vipsubscription685/2272200/220065
-
-
-#Zubayer_Op
-
-
-
-
-
 
 
 

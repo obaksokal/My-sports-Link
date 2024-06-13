@@ -24,19 +24,19 @@ http://mag.premiumplus.tv:80/play/live.php?mac=00:1a:79:ad:a6:99&stream=1550852&
 
 
 
-#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/" group-title="EURO 2024",TEN 1 . 
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/" group-title="EURO 2024",TEN 1 
 http://public.iptv18.tech/push.php?id=23816
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/373.jpg" group-title="EURO 2024",TEN 1 HD 
 http://public.iptv18.tech/push.php?id=403
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/382.jpg" group-title="EURO 2024",TEN 1 
 http://public.iptv18.tech/push.php?id=412
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/" group-title="EURO 2024",TEN 2 . 
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/" group-title="EURO 2024",TEN 2  
 http://public.iptv18.tech/push.php?id=23817
 #EXTINF:-1 tvg-id="sonyten2hd.in" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/374.jpg" group-title="EURO 2024",TEN 2 HD 
 http://public.iptv18.tech/push.php?id=404
 #EXTINF:-1 tvg-id="sonyten2hd.in" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/383.jpg" group-title="EURO 2024",TEN 2 
 http://public.iptv18.tech/push.php?id=413
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/" group-title="EURO 2024",TEN 3 . 
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/" group-title="EURO 2024",TEN 3  
 http://public.iptv18.tech/push.php?id=23818
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/375.jpg" group-title="EURO 2024",TEN 3 HD 
 http://public.iptv18.tech/push.php?id=405

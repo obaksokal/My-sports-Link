@@ -1,26 +1,11 @@
 #EXTM3U
 ####EURO 2024####
 #EXTINF:-1 tvg-logo="https://editorial.uefa.com/resources/026e-1378224303a2-169ca0b7cd68-1000/format/wide1/brand2024.jpg" group-title="EURO 2024",EURO TV 1
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1a:79:ad:a6:99&stream=1550843&extension=ts&play_token=RDJPhzYgut
+https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8
 #EXTINF:-1 tvg-logo="https://editorial.uefa.com/resources/026e-1378224303a2-169ca0b7cd68-1000/format/wide1/brand2024.jpg" group-title="EURO 2024",EURO TV 2
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1a:79:ad:a6:99&stream=1550844&extension=ts&play_token=o7uD2v64Cs
+http://191039849241812600.ofgh525.xyz:80/play/vi918712/qGY85y4GAQ/812600.ts
 #EXTINF:-1 tvg-logo="https://editorial.uefa.com/resources/026e-1378224303a2-169ca0b7cd68-1000/format/wide1/brand2024.jpg" group-title="EURO 2024",EURO TV 3
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1a:79:ad:a6:99&stream=1550845&extension=ts&play_token=GG68ATToGA
-#EXTINF:-1 tvg-logo="https://editorial.uefa.com/resources/026e-1378224303a2-169ca0b7cd68-1000/format/wide1/brand2024.jpg" group-title="EURO 2024",EURO TV 4
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1a:79:ad:a6:99&stream=1550846&extension=ts&play_token=kn2diZnatX
-#EXTINF:-1 tvg-logo="https://editorial.uefa.com/resources/026e-1378224303a2-169ca0b7cd68-1000/format/wide1/brand2024.jpg" group-title="EURO 2024",EURO TV 5
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1a:79:ad:a6:99&stream=1550847&extension=ts&play_token=TrHR7NdpT5
-#EXTINF:-1 tvg-logo="https://editorial.uefa.com/resources/026e-1378224303a2-169ca0b7cd68-1000/format/wide1/brand2024.jpg" group-title="EURO 2024",EURO TV 6
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1a:79:ad:a6:99&stream=1550848&extension=ts&play_token=6OT5DTFkRJ
-#EXTINF:-1 tvg-logo="https://editorial.uefa.com/resources/026e-1378224303a2-169ca0b7cd68-1000/format/wide1/brand2024.jpg" group-title="EURO 2024",EURO TV 7
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1a:79:ad:a6:99&stream=1550849&extension=ts&play_token=Mx96wA5OdB
-#EXTINF:-1 tvg-logo="https://editorial.uefa.com/resources/026e-1378224303a2-169ca0b7cd68-1000/format/wide1/brand2024.jpg" group-title="EURO 2024",EURO TV 8
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1a:79:ad:a6:99&stream=1550850&extension=ts&play_token=CDhSiskIgH
-#EXTINF:-1 tvg-logo="https://editorial.uefa.com/resources/026e-1378224303a2-169ca0b7cd68-1000/format/wide1/brand2024.jpg" group-title="EURO 2024",EURO TV 9
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1a:79:ad:a6:99&stream=1550851&extension=ts&play_token=a5UupfjbTk
-#EXTINF:-1 tvg-logo="https://editorial.uefa.com/resources/026e-1378224303a2-169ca0b7cd68-1000/format/wide1/brand2024.jpg" group-title="EURO 2024",EURO TV 10
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1a:79:ad:a6:99&stream=1550852&extension=ts&play_token=RJnYVbV127
-
+http://191039849241812621.ofgh525.xyz:80/play/vi918712/qGY85y4GAQ/812621.ts
 
 
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/" group-title="EURO 2024",TEN 1 

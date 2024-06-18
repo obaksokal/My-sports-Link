@@ -7,6 +7,9 @@ http://191039849241812600.ofgh525.xyz:80/play/vi918712/qGY85y4GAQ/812600.ts
 #EXTINF:-1 tvg-logo="https://editorial.uefa.com/resources/026e-1378224303a2-169ca0b7cd68-1000/format/wide1/brand2024.jpg" group-title="EURO 2024",EURO TV 3
 http://191039849241812621.ofgh525.xyz:80/play/vi918712/qGY85y4GAQ/812621.ts
 
+#EXTINF:-1 tvg-logo="https://editorial.uefa.com/resources/026e-1378224303a2-169ca0b7cd68-1000/format/wide1/brand2024.jpg" group-title="EURO 2024",EURO TV 4
+http://nayeem-parvez.fanclub.rocks/api/live.m3u8?chunks=4ea533f18e3b15aee2a93a15f1034d1edb99822684e6949acf1bd1a0e2e224d498f7d71e168a445c0fdcadba427f16f4b3ceb1410fc3cdbd2818298cc0f75bd28aa14ffe4cf88a38c9022e8f1f9dbb1eb71d63faa3301e373c68296b068d33b0
+
 
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-logo="http://watch.push4k.xyz/stalker_portal/misc/logos/320/" group-title="EURO 2024",TEN 1 
 http://public.iptv18.tech/push.php?id=23816

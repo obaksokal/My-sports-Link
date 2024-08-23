@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://media.info/l/o/1/1539.1690027797.png",TNT Sports 1
+https://vipgoodlive-tvs.creativehub.sbs/TNT_Sports_1/index.m3u8
+#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://media.info/l/o/1/1540.1690027877.png",TNT Sports 2
+https://vipgoodlive-tvs.creativehub.sbs/TNT_Sports_2/index.m3u8
+#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://media.info/l/o/5/5712.1690027954.png",TNT Sports 3
+https://vipgoodlive-tvs.creativehub.sbs/TNT_Sports_3/index.m3u8
+#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://media.info/l/o/1/1491.1690027975.png",TNT Sports 4
+https://vipgoodlive-tvs.creativehub.sbs/TNT_Sports_4/index.m3u8
+#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-football-uk.svg",Sky Sports Football
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Football_Live_TV/index.m3u8
+#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://shorturl.at/fixL1",Sky Sports Main Event
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Main_Event/index.m3u8
+#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://shorturl.at/ivGI9",Sky Sports Premier League 
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Premier_League/index.m3u8
+#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://shorturl.at/ivGI9",Super Sports Premier League
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Premier_League_Live_TV/index.m3u8 
+#EXTINF:-1 tvg-logo="https://www.kemifilani.ng/wp-content/uploads/2020/12/Premier-League-EPL-2033.jpg" group-title="BEE Sports", EPL 1
+https://vipgoodlive-tvs.creativehub.sbs/EPL_05/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.kemifilani.ng/wp-content/uploads/2020/12/Premier-League-EPL-2033.jpg" group-title="BEE Sports", EPL 2
+https://vipgoodlive-tvs.creativehub.sbs/EPL_06/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.kemifilani.ng/wp-content/uploads/2020/12/Premier-League-EPL-2033.jpg" group-title="BEE Sports", EPL 3
+https://vipgoodlive-tvs.creativehub.sbs/EPL_04/index.m3u8
+#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://media.info/i/lf/300/1507600280/1134.png",Sky Sports Cricket
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Cricket_Live_TV/index.m3u8
+#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://m5.paperblog.com/i/740/7408004/how-to-fix-willow-tv-not-working-L-58_rSX.jpeg",Willow TV
+https://vipgoodlive-tvs.creativehub.sbs/Willow_Cricket_Live_TV/index.m3u8
+#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://tv.krirangon.com/upload/Channel%20Logo/Willow%20Xtra.jpg",Willow TV Extra
+https://vipgoodlive-tvs.creativehub.sbs/Willow_Extra_Live_TV/index.m3u8
+#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://shorturl.at/muxQ3",Super Sports Cricket 
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Cricket_Live_TV/index.m3u8
+#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png",Bein Sports 
+https://vipgoodlive-tvs.creativehub.sbs/Bein_Sports_USA_Live_TV/index.m3u8
+#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png",Bein Sports 2
+https://vipgoodlive-tvs.creativehub.sbs/Bein_Sports_English_2_Live_TV/index.m3u8
+#EXTINF:-1 group-title="BEE Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/faa723dac3eece2c865473edd83d65c9.png",LaLiga TV  
+https://vipgoodlive-tvs.creativehub.sbs/La_Liga_TV_Live_TV/index.m3u8
+#EXTINF:-1 group-title="BEE Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/faa723dac3eece2c865473edd83d65c9.png",Super Sports Laliga 
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_LaLiga_Live_TV/index.m3u8
+#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBh7B8Yh26JiqbPty0wOGDH2l9HNHFE3QQUA&usqp=CAU",Premier Sports 1
+https://vipgoodlive-tvs.creativehub.sbs/Premier_Sports_1/index.m3u8
+#EXTINF:-1 group-title="BEE Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f1dc481ba9bdb4f1d02734d80a5c8f99.png", CBS Sports Network
+https://vipgoodlive-tvs.creativehub.sbs/CBS_Sports_Network_Live_TV/index.m3u8
+#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd5u8aXsy1_vHD0qcCK62btsveMi09xdAyh2iqGQRNFvg7R7-OX4yjpVOpRncewNfRi0w&usqp=CAU", ITV 1
+https://vipgoodlive-tvs.creativehub.sbs/ITV_1/index.m3u8
+#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEfwH33R0iqSiewRu8XUWNBTYD8jHDXVsB1GAlNGB7PoWQY-ErhDK8crrLzfHL3ZvKrII&usqp=CAU", ITV 2
+https://vipgoodlive-tvs.creativehub.sbs/ITV_2/index.m3u8
+#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg", FS 1
+https://vipgoodlive-tvs.creativehub.sbs/Fox_Sports_1_Live_TV/index.m3u8
+#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-2FE1B4E44B-seeklogo.com.png", FS 2
+https://vipgoodlive-tvs.creativehub.sbs/Fox_Sports_2_Live_TV/index.m3u8
+#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://www.the-sun.com/wp-content/uploads/sites/6/2024/01/js-off-plat-ESPN.jpg?strip=all&quality=100&w=1620&h=1080&crop=1", ESPN 1
+https://vipgoodlive-tvs.creativehub.sbs/ESPN_Live_TV/index.m3u8
+#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://www.the-sun.com/wp-content/uploads/sites/6/2024/01/js-off-plat-ESPN.jpg?strip=all&quality=100&w=1620&h=1080&crop=1", ESPN 2
+https://vipgoodlive-tvs.creativehub.sbs/ESPN_2_Live_TV/index.m3u8
